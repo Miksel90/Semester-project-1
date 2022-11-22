@@ -124,7 +124,22 @@ main{
     padding: 50px;
   }
 
+  .welcome-weekend{
+    background-image: url(../images/Weekend\ photo.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-bottom: 5px;
+    position: relative;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
 
+
+  
 
  .a:link a:visited{
     text-decoration: none;
