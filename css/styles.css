@@ -121,12 +121,6 @@ main{
     background-image: url(../images/Visitus.jpg);
   }
 
-  .welcome-visit-text{
-    position: absolute;
-    color: #fff; 
-    background: rgb(0,0,0,0.5);
-    padding: 50px;
-  }
 
   .container2{
     background-image: url(../images/This\ weekend.jpg);
