@@ -118,7 +118,7 @@ main{
 }
 
 
-.welcome-visit{
+.welcome visit{
     background-image: url(../images/Visitus.jpg);
   }
 
@@ -129,7 +129,7 @@ main{
     padding: 50px;
   }
 
-  .welcome-weekend{
+  .welcome weekend{
     background-image: url(../images/Weekend\ photo.jpg);
     height: 500px;
     background-size: cover;
