@@ -107,12 +107,13 @@ main{
 ================*/
 .welcome-visit{
     background-image: url(../images/Visitus.jpg);
-    height: 570px;
+    max-height: 570px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
     margin-bottom: 5px;
     position: relative;
+    margin-top: 10px;
   }
 
   .welcome-visit-text{
