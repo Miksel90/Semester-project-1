@@ -1,3 +1,6 @@
+  /*==============
+1. Global Values
+================*/
 
 
 
@@ -10,6 +13,24 @@ main{
     padding: 0;
   }
 
+
+  input{
+    font-weight: 700;
+    padding-block: 5px;
+    padding-left: 5px;
+    font-size: 15px;
+  }
+  
+  .hide-this-label {
+    display: none;
+  }
+
+
+
+
+      /*==============
+2. Navigation
+================*/
 
 .logo img {
     display: flex;
@@ -56,9 +77,6 @@ main{
     display: none;
   }
 
-  .hide-this-label {
-    display: none;
-  }
   
   
   header{display: flex;
