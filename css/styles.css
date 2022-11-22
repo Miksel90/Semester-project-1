@@ -116,7 +116,6 @@ main{
 
   .welcome-visit-text{
     position: absolute;
-    bottom: 150px; 
     color: #fff; 
     background: rgb(0,0,0,0.5);
     padding: 30px;
