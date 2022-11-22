@@ -134,7 +134,20 @@ main{
     background-position: center;
   }
 
-
+  .btn1 a{
+    font-size: 25px;
+    background-color: green;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 5px;
+  }
   
 
  .a:link a:visited{
