@@ -111,7 +111,7 @@ main{
     background-position: left;
     margin-bottom: 5px;
     position: relative;
-    margin-top: 10px;
+    margin: 10 10 10 10;
   }
 
   .welcome-visit-text{
