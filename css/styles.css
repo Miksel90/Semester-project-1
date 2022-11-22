@@ -108,8 +108,8 @@ main{
 .welcome-visit{
     background-image: url(../images/Visitus.jpg);
     height: 570px;
-    background-size: cover;
-    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
     margin-bottom: 5px;
     position: relative;
   }
