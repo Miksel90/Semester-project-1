@@ -110,6 +110,7 @@ main{
     height: 570px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: left;
     margin-bottom: 5px;
     position: relative;
   }
