@@ -107,7 +107,7 @@ main{
 ================*/
 .welcome-visit{
     background-image: url(../images/Visitus.jpg);
-    max-height: 570px;
+    height: 570px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: left;
