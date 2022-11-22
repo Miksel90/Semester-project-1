@@ -34,11 +34,6 @@ main{
     display: none;
   }
 
-  .a:link a:visited{
-    text-decoration: none;
-    color: #fff;
-  }
-
 
       /*==============
 2. Navigation
@@ -129,6 +124,10 @@ main{
 
 
 
+  .a:link a:visited{
+    text-decoration: none;
+    color: #fff;
+  }
 
 
 
