@@ -1,4 +1,13 @@
 
+
+
+main{
+    flex:1;
+  }
+  
+
+
+
 .logo img {
     display: flex;
     align-self: center;
