@@ -102,6 +102,19 @@ main{
   }
 
 
+  /*==============
+3. Homepage Images, Image Buttons and text
+================*/
+.welcome{
+    background-image: url(../images/Visit\ us.jpg);
+    height: 570px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 5px;
+    position: relative;
+  }
+
+
 
 
 
