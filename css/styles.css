@@ -103,8 +103,8 @@ main{
   /*==============
 3. Homepage Images, Image Buttons and text
 ================*/
-.welcome-visit{
-    background-image: url(../images/Visitus.jpg);
+
+.welcome{
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,6 +115,11 @@ main{
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
+}
+
+
+.welcome-visit{
+    background-image: url(../images/Visitus.jpg);
   }
 
   .welcome-visit-text{
