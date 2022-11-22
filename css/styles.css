@@ -104,7 +104,11 @@ main{
 3. Homepage Images, Image Buttons and text
 ================*/
 
-.welcome{
+.welcome{}
+
+
+.welcome-visit{
+    background-image: url(../images/Visitus.jpg);
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -115,11 +119,6 @@ main{
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
-}
-
-
-.welcome visit{
-    background-image: url(../images/Visitus.jpg);
   }
 
   .welcome-visit-text{
@@ -129,7 +128,7 @@ main{
     padding: 50px;
   }
 
-  .welcome weekend{
+  .welcome-weekend{
     background-image: url(../images/Weekend\ photo.jpg);
     height: 500px;
     background-size: cover;
