@@ -43,6 +43,11 @@
   .search-input{
     display: none;
   }
+
+  .hide-this-label {
+    display: none;
+  }
+  
   
   header{display: flex;
    justify-content: space-around;
