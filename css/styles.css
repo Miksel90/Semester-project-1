@@ -112,6 +112,7 @@ main{
   margin: 0 auto;
   border-color: black;
   border-style: solid;
+  flex-wrap: wrap;
 }
 
 .welcome1 , .welcome2, .welcome3 {
