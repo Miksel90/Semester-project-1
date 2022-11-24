@@ -127,6 +127,7 @@ main{
   .welcome-exhibition{
     background-image: url(../images/Exhibitions.jpg);
     background-position: center;
+    height: 500px;
   }
 
   .btn1 a{
