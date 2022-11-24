@@ -173,7 +173,8 @@ main{
   .newsbox{
     border-color: black;
     border-style: solid;
-   padding: 5px 10px;
+    padding: 5px 25px;
+    font-size: 22px;
   }
 
 
@@ -185,7 +186,7 @@ main{
    text-align: left;
    font-size: 40px;
   }
-  
+
  .a:link a:visited{
     text-decoration: none;
     color: #fff;
