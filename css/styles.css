@@ -131,6 +131,9 @@ main{
 }
 
 .welcomecol1{
+  height: 300px;
+  width: 250px;
+  display: flex;
     background-image: url(../images/Visitus.jpg);
   }
 
