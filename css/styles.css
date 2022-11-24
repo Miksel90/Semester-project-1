@@ -102,7 +102,7 @@ main{
 3. Homepage Images, Image Buttons and text
 ================*/
 
-.welcome{
+.row-welcome{
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
