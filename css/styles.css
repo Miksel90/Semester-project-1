@@ -102,6 +102,12 @@ main{
 3. Homepage Images, Image Buttons and text
 ================*/
 
+
+
+.row{
+  height: 500px;
+}
+
 .row-welcome{
     height: 500px;
     background-size: cover;
