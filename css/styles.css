@@ -110,6 +110,8 @@ main{
   justify-content: space-evenly;
   flex-flow: wrap;
   margin: 0 auto;
+  border-color: black;
+  border-style: solid;
 }
 
 .welcome1 , .welcome2, .welcome3 {
