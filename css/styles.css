@@ -123,6 +123,7 @@ main{
 
 .welcome1 img {
   max-width: 500px;
+  position: absolute;
 }
 
 
