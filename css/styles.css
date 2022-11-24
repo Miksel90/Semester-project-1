@@ -181,6 +181,7 @@ main{
     border-color: black;
     border-style: solid;
    padding: 5px 10px;
+   list-style: none;
   }
  .a:link a:visited{
     text-decoration: none;
