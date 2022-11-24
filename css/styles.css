@@ -104,7 +104,7 @@ main{
 
 
 
-.row{
+.container{
   width: 100%;
   height: auto;
   display: flex;
@@ -113,9 +113,6 @@ main{
   margin-top: 15px;
 }
 
-.row-welcome{
-
-}
 
 .column{
   height: 500px;
@@ -128,28 +125,6 @@ main{
   margin-left: 10px;
   margin-right: 10px;
 }
-
-.welcomecol1{
-  height: 300px;
-  width: 250px;
-  display: flex;
-  background-image: url(../images/Visitus.jpg);
-  }
-
-
-  .welcomecol2{
-    height: 300px;
-    width: 250px;
-    display: flex;
-    background-image: url(../images/This\ weekend.jpg);
-  }
-
-  .welcomecol3{
-    height: 300px;
-    width: 250px;
-    display: flex;
-    background-image: url(../images/Program.jpg);
-  }
 
   .welcome-exhibition{
     background-image: url(../images/Exhibitions.jpg);
