@@ -140,6 +140,7 @@ main{
     height: 500px;
     background-repeat: no-repeat;
     width: 80%;
+    justify-content: center;
   }
 
   .btn1 a{
