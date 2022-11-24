@@ -182,6 +182,7 @@ main{
     border-style: solid;
    padding: 5px 10px;
    list-style: none;
+   text-align: left;
   }
  .a:link a:visited{
     text-decoration: none;
