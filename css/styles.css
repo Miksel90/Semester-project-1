@@ -173,6 +173,7 @@ main{
     border-color: black;
     border-style: solid;
    padding: 5px 10px;
+   max-width: 340px;
   }
 
  .a:link a:visited{
