@@ -113,14 +113,17 @@ main{
   margin-top: 15px;
 }
 
-.welcome1 img , .welcome2 img, .welcome3 img {
-  height: 500px;
+.welcome1 , .welcome2, .welcome3 {
+  max-height: 500px;
   max-width: 200px;
   display: flex;
   margin-bottom: 10px;
   object-fit: contain;
 }
 
+.welcome1 img {
+  max-width: px;
+}
 
 
 .visit-text{
