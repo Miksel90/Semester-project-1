@@ -124,6 +124,7 @@ main{
   display: flex;
   margin-top: 5px;
   margin-bottom: 5px;
+  justify-content: space-around;
 }
 
 .welcome1 img, .welcome2 img, .welcome3 img {
