@@ -172,7 +172,7 @@ main{
   .newsbox{
     border-color: black;
     border-style: solid;
-    max-width: 100%;
+    max-width: 100px
   }
 
  .a:link a:visited{
