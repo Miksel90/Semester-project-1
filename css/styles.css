@@ -109,29 +109,31 @@ main{
 }
 
 .row-welcome{
-    height: 500px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: left;
-    margin-bottom: 5px;
-    position: relative;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
+
 }
 
+.column{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left;
+  margin-bottom: 5px;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
-.column1{
+.welcomecol1{
     background-image: url(../images/Visitus.jpg);
   }
 
 
-  .column2{
+  .welcomecol2{
     background-image: url(../images/This\ weekend.jpg);
   }
 
-  .column3{
+  .welcomecol3{
     background-image: url(../images/Program.jpg);
   }
 
