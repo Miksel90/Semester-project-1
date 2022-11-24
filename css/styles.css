@@ -143,8 +143,8 @@ main{
     height: 500px;
     background-repeat: no-repeat;
     margin-top: 15px;
-    margin-right:100px;
-    margin-left: 100px;
+    margin-right:5%;
+    margin-left: 5%;
   }
 
   .btn1 a{
