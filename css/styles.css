@@ -112,9 +112,6 @@ main{
   margin: 0 auto;
 }
 
-
-
-
 .welcome1 , .welcome2, .welcome3 {
   height: 500px;
   max-width: 200px;
@@ -141,6 +138,7 @@ main{
     background-image: url(../images/Exhibitions.jpg);
     background-position: center;
     height: 500px;
+    background-repeat: no-repeat;
   }
 
   .btn1 a{
