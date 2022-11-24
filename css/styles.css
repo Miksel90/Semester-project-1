@@ -113,12 +113,13 @@ main{
   margin-top: 15px;
 }
 
-.welcome1, .welcome2, .welcome3 {
+.welcome1 , .welcome2, .welcome3 {
   max-height: 500px;
   max-width: 250px;
   display: flex;
   margin-bottom: 10px;
   object-fit: contain;
+  position: ;
 }
 
   .welcome-exhibition{
