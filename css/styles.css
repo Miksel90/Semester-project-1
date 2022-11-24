@@ -105,7 +105,12 @@ main{
 
 
 .row{
-  height: 500px;
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: wrap;
+  margin-top: 15px;
 }
 
 .row-welcome{
