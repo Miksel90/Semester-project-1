@@ -114,7 +114,7 @@ main{
 }
 
 .column{
-  width: 1000px;
+  gap: 30px;
 }
 
 
@@ -125,7 +125,6 @@ main{
   margin-top: 5px;
   margin-bottom: 5px;
   justify-content: space-around;
-  gap: 20px;
 }
 
 .welcome1 img, .welcome2 img, .welcome3 img {
