@@ -111,6 +111,7 @@ main{
   justify-content: space-evenly;
   flex-flow: wrap;
   margin: 0 auto;
+  gap: 50px;
 }
 
 
