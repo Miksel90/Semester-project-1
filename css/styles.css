@@ -108,7 +108,7 @@ main{
   width: 80%;
   height: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   flex-flow: wrap;
   margin: 0 auto;
 }
