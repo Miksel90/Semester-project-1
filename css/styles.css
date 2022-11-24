@@ -126,7 +126,7 @@ main{
   margin-bottom: 5px;
 }
 
-.welcome1 img {
+.welcome1 img, .welcome2 img, .welcome3 img {
   height: 500px;
   width: 300px;
   display: flex;
