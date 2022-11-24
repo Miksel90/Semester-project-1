@@ -134,15 +134,21 @@ main{
   height: 300px;
   width: 250px;
   display: flex;
-    background-image: url(../images/Visitus.jpg);
+  background-image: url(../images/Visitus.jpg);
   }
 
 
   .welcomecol2{
+    height: 300px;
+    width: 250px;
+    display: flex;
     background-image: url(../images/This\ weekend.jpg);
   }
 
   .welcomecol3{
+    height: 300px;
+    width: 250px;
+    display: flex;
     background-image: url(../images/Program.jpg);
   }
 
