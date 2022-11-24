@@ -113,6 +113,9 @@ main{
   margin-top: 15px;
 }
 
+.column {
+  height: 500px;
+}
 
   .welcome-exhibition{
     background-image: url(../images/Exhibitions.jpg);
