@@ -110,6 +110,7 @@ main{
   display: flex;
   justify-content: space-evenly;
   flex-flow: wrap;
+  margin: 0 auto;
   gap: 110px;
 }
 
