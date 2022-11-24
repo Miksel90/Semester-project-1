@@ -134,7 +134,7 @@ main{
 .visit-text, .weekend-text, .program-text {
   position: relative;
   top: 8px;
-  left: 16px;
+  left: 100px;
 }
 
   .welcome-exhibition{
