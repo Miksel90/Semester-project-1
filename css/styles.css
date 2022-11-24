@@ -170,7 +170,7 @@ main{
     flex-wrap: wrap;
   }
 
-  newsbox{
+  .newsbox{
     border-color: black;
     border-style: solid;
    padding: 5px 10px;
