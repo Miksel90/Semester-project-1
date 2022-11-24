@@ -116,20 +116,20 @@ main{
 }
 
 
-.container1{
+.column1{
     background-image: url(../images/Visitus.jpg);
   }
 
 
-  .container2{
+  .column2{
     background-image: url(../images/This\ weekend.jpg);
   }
 
-  .container3{
+  .column3{
     background-image: url(../images/Program.jpg);
   }
 
-  .container4{
+  .welcome-exhibtion{
     background-image: url(../images/Exhibitions.jpg);
     background-position: center;
   }
