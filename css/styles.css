@@ -176,6 +176,12 @@ main{
    padding: 5px 10px;
   }
 
+
+  .adressbox{
+    border-color: black;
+    border-style: solid;
+   padding: 5px 10px;
+  }
  .a:link a:visited{
     text-decoration: none;
     color: #fff;
