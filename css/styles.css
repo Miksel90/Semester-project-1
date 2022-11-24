@@ -118,7 +118,6 @@ main{
   max-width: 200px;
   display: flex;
   object-fit: contain;
-  min-height: 0px;
 }
 
 .welcome1 img {
