@@ -117,7 +117,6 @@ main{
   height: 500px;
   max-width: 200px;
   display: flex;
-  margin-bottom: 10px;
   object-fit: contain;
   min-height: 0px;
 }
