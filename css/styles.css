@@ -127,7 +127,7 @@ main{
 
 
 .visit-text, .weekend-text, .program-text {
-  position: absolute;
+  position: relative;
   top: 8px;
   left: 16px;
 }
