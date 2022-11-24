@@ -173,7 +173,6 @@ main{
     border-color: black;
     border-style: solid;
     max-width: 300px;
-    display: flex;
   }
 
  .a:link a:visited{
