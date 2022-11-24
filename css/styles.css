@@ -123,6 +123,12 @@ main{
 
 
 
+.visit-text{
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
   .welcome-exhibition{
     background-image: url(../images/Exhibitions.jpg);
     background-position: center;
