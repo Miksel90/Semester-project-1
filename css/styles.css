@@ -124,6 +124,7 @@ main{
 
 .welcome1 img {
   max-width: 500px;
+  height: auto;
   object-fit: contain;
   
 }
