@@ -114,7 +114,7 @@ main{
 
 .welcome1 , .welcome2, .welcome3 {
   max-height: 500px;
-  width: 400px;
+  width: 300px;
   display: flex;
   margin-bottom: 10px;
   object-fit: contain;
