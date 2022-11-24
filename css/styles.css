@@ -123,6 +123,7 @@ main{
 
 .welcome1 img {
   width: 300px;
+  display: flex;
 }
 
 
