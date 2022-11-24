@@ -169,7 +169,7 @@ main{
     }
     }
   
-    @media screen and (min-width: 1075px){
+    @media screen and (max-width: 1075px){
       .container{flex-wrap: nowrap;}
       .item{flex: 1 1 auto;}
     }
