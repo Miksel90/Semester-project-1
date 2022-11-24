@@ -114,18 +114,6 @@ main{
 }
 
 
-.column{
-  height: 500px;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: left;
-  margin-bottom: 5px;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
   .welcome-exhibition{
     background-image: url(../images/Exhibitions.jpg);
     background-position: center;
