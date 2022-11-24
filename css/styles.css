@@ -121,6 +121,9 @@ main{
   object-fit: contain;
 }
 
+.welcome1 img {
+  max-width: 200px;
+}
 
 
 .visit-text{
