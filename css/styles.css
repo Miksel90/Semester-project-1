@@ -139,6 +139,7 @@ main{
     background-position: center;
     height: 500px;
     background-repeat: no-repeat;
+    width: 80%;
   }
 
   .btn1 a{
