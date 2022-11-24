@@ -111,11 +111,10 @@ main{
   justify-content: space-evenly;
   flex-flow: wrap;
   margin-top: 15px;
+  gap: 40px;
 }
 
-.column{
-  gap: 30px;
-}
+
 
 
 .welcome1 , .welcome2, .welcome3 {
