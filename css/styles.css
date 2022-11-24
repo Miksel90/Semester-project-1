@@ -113,6 +113,11 @@ main{
   margin-top: 15px;
 }
 
+.column{
+  width: 500px;
+}
+
+
 .welcome1 , .welcome2, .welcome3 {
   height: 500px;
   max-width: 200px;
