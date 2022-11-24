@@ -114,7 +114,14 @@ main{
 }
 
 .welcome1, .welcome2 {
-  height: 500px;
+  height: 300px;
+  width: 250px;
+  display: flex;
+  border-color: black;
+  border-style:groove;
+  background-color: oldlace;
+  margin-bottom: 12px;
+  object-fit: contain;
 }
 
   .welcome-exhibition{
