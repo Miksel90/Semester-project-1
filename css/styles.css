@@ -142,6 +142,7 @@ main{
     background-position: center;
     height: 500px;
     background-repeat: no-repeat;
+    margin-top: 15px;
   }
 
   .btn1 a{
