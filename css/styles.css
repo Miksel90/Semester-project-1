@@ -140,7 +140,7 @@ main{
   .welcome-exhibition{
     background-image: url(../images/Moon2.jpg);
     background-position: center;
-    height: 500px;
+    height: 400px;
     background-repeat: no-repeat;
     margin-top: 15px;
     background-size: cover;
