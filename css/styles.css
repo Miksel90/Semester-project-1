@@ -130,6 +130,10 @@ main{
   flex-wrap: wrap;
 }
 
+.welcome3 img{
+  background: rgb(0,0,0,0.5);
+}
+
 
 .visit-text, .weekend-text, .program-text {
   position: absolute;
