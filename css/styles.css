@@ -146,6 +146,7 @@ main{
     margin-top: 15px;
     background-size: contain;
     display: flex;
+    justify-content: center;
   }
 
   .btn1 a{
