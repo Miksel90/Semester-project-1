@@ -352,6 +352,7 @@ main{
   padding: 20px;
   margin-top: 10px;
   text-align: center;
+  background-color: greenyellow;
 }
 
 .ticketbutton{
@@ -365,7 +366,6 @@ main{
   border: none;
   cursor: pointer;
   border-radius: 5px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
   max-width: 200px;
