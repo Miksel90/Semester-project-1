@@ -277,7 +277,6 @@ background-color: crimson;
 
 
 .btn3 a{
-  border: none; 
   color:#000; 
   cursor: pointer; 
   padding: 5px; 
@@ -286,7 +285,6 @@ background-color: crimson;
   float:right;
   margin-right: 5px;
   margin-top: 5px;
-  text-decoration: none;
   }
   
   .btn3:hover {
