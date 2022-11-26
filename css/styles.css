@@ -422,7 +422,7 @@ Media Queries
     }
     }
   
-    @media (max-width: 800px) {
+    @media (min-width: 800px) {
       .mapbox,
       .hourbox,
       .cafebox,
