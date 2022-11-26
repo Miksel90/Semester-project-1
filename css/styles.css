@@ -398,8 +398,17 @@ main{
 .hourbox,
 .cafebox,
 .shopbox{
-  flex: 25%;
   position: absolute;
+  width: calc(1.6vw + 10px); height: calc(1.6vw + 10px);
+  border-radius: 50%;
+  background-color: #fff;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+}
 }
 
 
