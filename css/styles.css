@@ -399,6 +399,8 @@ main{
 .cafebox,
 .shopbox{
   flex: 25%;
+  border-color: #fff;
+  border-style: solid;
 }
 
 
