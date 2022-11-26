@@ -276,6 +276,7 @@ background-color: crimson;
   padding: 15px; 
   border-radius: 10px; 
   font-size: 18px; 
+  display: inline-block;
   }
   
   .btn3:hover {
