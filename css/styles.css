@@ -335,6 +335,9 @@ background-color: crimson;
   nav ul li a{
     font-size: 30px;
   }
+  .logo{
+    height:200px
+  }
 }
 
 
