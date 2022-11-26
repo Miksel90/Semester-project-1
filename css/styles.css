@@ -266,6 +266,7 @@ background-color: crimson;
   display: flex;
   justify-content: space-evenly;
   border-right: #000;
+  border-style: solid;
 }
 
 
