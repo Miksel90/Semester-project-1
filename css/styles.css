@@ -375,9 +375,6 @@ main{
   max-width: 200px;
 }
 
-    /*==============
-7. Adress
-================*/
 
 .flex-container{
   margin-top: 20px;
@@ -386,7 +383,6 @@ main{
   flex-wrap: wrap;
   position: relative;
 }
-
 
 
 .flex-container img{
@@ -404,7 +400,15 @@ main{
 }
 
 
-
+.info-text{
+  background: rgb(0,0,0,0.5);
+  padding: 25px;  
+  font-size: 30px;
+  position: absolute;
+  bottom: 5px;
+  font-weight: bold;
+  border-radius: 5px;
+}
     /*==============
 Media Queries
 ================*/
