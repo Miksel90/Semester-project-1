@@ -386,17 +386,11 @@ main{
   flex-wrap: wrap;
 }
 
+
+
 .flex-container img{
   width: 300px;
   height: 300px;
-}
-
-.mapbox{
-  flex: 50%;
-}
-
-.hoursbox{
-  flex:50%
 }
 
 
