@@ -256,6 +256,10 @@ background-color: crimson;
 }
 
 
+.some-container{
+  max-width: 100px;
+}
+
     /*==============
 5. Icons
 ================*/
