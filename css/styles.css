@@ -262,8 +262,9 @@ background-color: crimson;
 
 .some-container{
   max-width: 180px;
-  background-color:dimgray;
+  background-color:#fff;
   display: flex;
+  justify-content: space-evenly;
 }
 
     /*==============
