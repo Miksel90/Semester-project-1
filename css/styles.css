@@ -11,6 +11,11 @@ body {
     background-color:#cf2e2e;
   }
 
+h1{
+  font-size: 30px;
+}
+
+
 @font-face {
   font-family: "open sans";
   src: url(../fonts/Andika-Regular.ttf);
@@ -327,6 +332,15 @@ main{
     color: #fff;
   }
 
+
+    /*==============
+6. Vist us
+================*/
+
+
+  .infobox{
+. 
+  }
 
 @media(min-width:700px){
   nav ul li a{
