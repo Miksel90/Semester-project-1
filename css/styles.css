@@ -415,8 +415,13 @@ main{
 
 
 .maps{
-  left:29%;
+  left:37%;
 }
+
+.hours{
+  left: 20%;
+}
+
     /*==============
 Media Queries
 ================*/
