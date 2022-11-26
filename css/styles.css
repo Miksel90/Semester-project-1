@@ -379,9 +379,11 @@ main{
 ================*/
 
 
-.hours {
+.hours,
+.cafe  {
   max-width: 100px;
 }
+ 
 .find-us img,
 .hours img
 .cafe img{
