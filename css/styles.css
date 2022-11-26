@@ -404,7 +404,7 @@ main{
   background: rgb(0,0,0,0.5);
   padding: 25px;  
   font-size: 30px;
-  position: absolute;
+  position: relative;
   bottom: 5px;
   font-weight: bold;
   border-radius: 5px;
