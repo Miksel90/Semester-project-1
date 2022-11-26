@@ -454,8 +454,8 @@ Media Queries
       display: block;
     }
     .flex-container{
-      margin-right: 0px;
-      margin-left: 0px;
+      margin-right: 300px;
+      margin-left: 300px;
     }
     }
   
