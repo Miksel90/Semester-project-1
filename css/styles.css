@@ -254,6 +254,9 @@ background-color: crimson;
 .bottom{
   height: 40px;
   background-color: #6F96BB;
+  border-style: solid;
+  border-color: black;
+  border-top: none; 
 }
 
 
