@@ -390,7 +390,13 @@ main{
   height: 300px;
 }
 
+.mapbox{
+  flex: 50%;
+}
 
+.hoursbox{
+  flex:50%
+}
 
 .flex-item-left {
   flex: 50%;
