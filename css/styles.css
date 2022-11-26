@@ -392,7 +392,13 @@ main{
 
 
 
+.flex-item-left {
+  flex: 50%;
+}
 
+.flex-item-right {
+  flex: 50%;
+}
 
 
     /*==============
