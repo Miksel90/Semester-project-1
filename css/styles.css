@@ -393,6 +393,7 @@ main{
 .hours img
 .cafe img{
   max-width: 300px;
+  max-height: 100px;
 }
 
 
