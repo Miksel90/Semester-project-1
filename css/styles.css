@@ -354,6 +354,10 @@ main{
   text-align: center;
 }
 
+.ticketbutton{
+  margin-bottom: 10px;
+}
+
 .ticketbutton a{
   font-size: 25px;
   background-color: #0071bc;
