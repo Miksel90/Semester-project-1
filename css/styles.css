@@ -324,7 +324,7 @@ background-color: crimson;
 }
 
 
- .a:link a:visited{
+ .a:visited{
     text-decoration: none;
     color: #fff;
   }
