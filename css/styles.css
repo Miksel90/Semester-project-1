@@ -411,7 +411,11 @@ main{
   font-weight: bold;
   border-radius: 5px;
   width: fit-content;
+}
 
+
+.maps{
+  left:29%;
 }
     /*==============
 Media Queries
