@@ -383,6 +383,8 @@ main{
   flex-direction: row;
   flex-wrap: wrap;
   position: relative;
+  margin-right: 300px;
+  margin-left: 300px;
 }
 
 
