@@ -342,6 +342,8 @@ main{
   border-color: black;
   border-style: solid;
   max-width: 300px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media(min-width:700px){
