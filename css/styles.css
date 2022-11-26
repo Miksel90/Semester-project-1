@@ -265,6 +265,7 @@ background-color: crimson;
   background-color:#fff;
   display: flex;
   justify-content: space-evenly;
+  border-right: #000;
 }
 
 
