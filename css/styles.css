@@ -118,6 +118,7 @@ main{
   margin-top: 5px;
   margin-bottom: 5px;
   justify-content: space-around;
+  position: absolute;
 }
 
 .welcome1 img, .welcome2 img, .welcome3 img {
