@@ -398,14 +398,6 @@ main{
   flex:50%
 }
 
-.flex-item-left {
-  flex: 50%;
-}
-
-.flex-item-right {
-  flex: 50%;
-}
-
 
     /*==============
 Media Queries
@@ -431,7 +423,10 @@ Media Queries
     }
   
     @media (max-width: 800px) {
-      .flex-item-right, .flex-item-left {
+      .mapbox,
+      .hourbox,
+      .cafebox,
+      .shopbox{
         flex: 100%;
       }
     }
