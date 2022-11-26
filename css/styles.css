@@ -393,6 +393,17 @@ main{
   height: 300px;
 }
 
+.mapbox,
+.hourbox,
+.cafebox,
+.shopbox,{
+  flex: 50%;
+}
+
+.hoursbox{
+  flex:50%
+}
+
 
     /*==============
 Media Queries
