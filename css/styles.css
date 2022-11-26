@@ -428,6 +428,6 @@ Media Queries
       .hourbox,
       .cafebox,
       .shopbox{
-        flex: 100%;
+        flex: 50%;
       }
     }
