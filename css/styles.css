@@ -341,6 +341,7 @@ main{
 .infobox{
   border-color: black;
   border-style: solid;
+  max-width: 300px;
 }
 
 @media(min-width:700px){
