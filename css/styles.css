@@ -158,6 +158,12 @@ justify-content: center;
   font-weight: bold;
   }
 
+
+  .btn1{
+    text-align: center;
+    margin-top: 10px;
+  }
+  
   .btn1 a{
     font-size: 25px;
     background-color: green;
@@ -171,8 +177,6 @@ justify-content: center;
     display: inline-block;
     margin-bottom: 20px;
     margin-top: 5px;
-    text-align: center;
-    margin-top: 10px;
   }
   
 
