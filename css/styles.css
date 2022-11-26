@@ -338,9 +338,10 @@ main{
 ================*/
 
 
-  .infobox{
-. 
-  }
+.infobox{
+  border-color: black;
+  border-style: solid;
+}
 
 @media(min-width:700px){
   nav ul li a{
