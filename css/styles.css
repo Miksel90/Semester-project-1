@@ -269,9 +269,6 @@ background-color: crimson;
 
 
 .btn3{
-  position: fixed; /* Fixed/sticky position */
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px;
   display: none; 
   z-index: 99;
   border: none; 
