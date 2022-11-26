@@ -229,6 +229,7 @@ flex-wrap: wrap;
 
 .contact{
   text-align: left;
+  max-width: 100px;
 }
 
  .a:link a:visited{
