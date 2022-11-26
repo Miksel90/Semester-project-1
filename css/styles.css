@@ -250,6 +250,10 @@ background-color: crimson;
   display: inline-block;
 }
 
+
+.bottom{
+  height: 20px;
+}
     /*==============
 5. Icons
 ================*/
