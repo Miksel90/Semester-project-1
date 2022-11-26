@@ -143,6 +143,7 @@ background-size: cover;
 background-repeat: no-repeat;
 display: flex;
 background-position-y: center;
+margin-top: 20px
   }
 
 .ex-text{
