@@ -133,7 +133,7 @@ main{
 
 .visit-text, .weekend-text, .program-text {
   position: absolute;
-  top: 8px;
+  bottom: 0px;
 }
 
   .welcome-exhibition{
