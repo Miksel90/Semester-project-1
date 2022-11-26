@@ -378,6 +378,10 @@ main{
 7. Adress
 ================*/
 
+
+.hours {
+  max-width: 100px;
+}
 .find-us img,
 .hours img
 .cafe img{
