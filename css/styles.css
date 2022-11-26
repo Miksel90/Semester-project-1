@@ -380,6 +380,7 @@ main{
 
 .flex-container{
   max-width: 100px;
+  flex: row;
 }
 
 flex-container img{
