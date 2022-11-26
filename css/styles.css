@@ -166,6 +166,8 @@ position: relative;
 justify-content: center;
 border-color: white;
 border-style: solid;
+border-right: none;
+border-left: none;
   }
 
 
