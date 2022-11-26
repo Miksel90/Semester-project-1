@@ -138,8 +138,8 @@ main{
 
   .welcome-exhibition{
     background-image: url(../images/Moon2.jpg);
-height: 570px;
-background-size: contain;
+height: 400px;
+background-size: cover;
 background-repeat: no-repeat;
 display: flex;
 background-position-y: center;
