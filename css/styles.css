@@ -225,6 +225,9 @@ justify-content: space-around;
 margin-top: 20px;
 align-items: center;
 flex-wrap: wrap;
+border-color: black;
+border-style: solid;
+padding: 25px;
 }
 
 .contact{
