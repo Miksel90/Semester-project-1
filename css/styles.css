@@ -353,7 +353,17 @@ main{
   margin-top: 10px;
 }
 
-
+.ticketbutton A{
+  font-size: 25px;
+  background-color: #0071bc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 
 
 
