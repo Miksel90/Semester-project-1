@@ -67,7 +67,6 @@ main{
       padding:10px 10px;
       display: flex;
       align-self: center;
-      font-weight: bold;
     }
   
   nav ul li a{
