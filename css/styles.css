@@ -132,8 +132,6 @@ main{
 
 
 .visit-text, .weekend-text, .program-text {
-  position: absolute;
-  bottom: 10px;
   background: rgb(0,0,0,0.5);
   padding: 30px;  
   height: 20px;
@@ -339,14 +337,6 @@ background-color: crimson;
 
 
 
-
-
-  @media only screen and (min-width : 700px) {
-    th
-    {    font-weight: xx-large;
-    
-      }
-    }
 
   @media(min-width:1000px){
   
