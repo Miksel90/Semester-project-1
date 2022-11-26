@@ -144,6 +144,9 @@ main{
   border-radius: 5px;
 }
 
+.visit-text a{
+  text-decoration: none;
+}
   .welcome-exhibition{
     background-image: url(../images/Moon2.jpg);
 height: 400px;
