@@ -144,7 +144,8 @@ main{
 .visit-text a,
 .weekend-text a,
 .program-text a,
-.ex-text a{
+.ex-text a
+.btn3{
   text-decoration: none;
   color: #fff;
 }
