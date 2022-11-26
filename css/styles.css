@@ -331,7 +331,7 @@ background-color: crimson;
   }
 
 
-@media(min-width:450px){
+@media(min-width:700px){
   nav ul li a{
     font-size: 30px;
   }
