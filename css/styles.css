@@ -159,7 +159,8 @@ main{
 .visit-text a,
 .weekend-text a,
 .program-text a,
-.ex-text a{
+.ex-text a,
+.info-text a{
   text-decoration: none;
   color: #fff;
 }
@@ -410,7 +411,6 @@ main{
   font-weight: bold;
   border-radius: 5px;
   width: fit-content;
-  text-decoration: none;
 
 }
     /*==============
