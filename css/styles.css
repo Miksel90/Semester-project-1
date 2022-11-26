@@ -152,6 +152,7 @@ margin-top: 20px
   padding: 30px;  
   width: 100%;
   height: 20px;
+  position: absolute;
   }
 
   .btn1 a{
