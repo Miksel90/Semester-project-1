@@ -378,6 +378,9 @@ main{
 7. Adress
 ================*/
 
+.flex-container{
+  max-width: 100px;
+}
 
 .hours,
 .cafe  {
