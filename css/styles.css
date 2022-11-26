@@ -381,7 +381,7 @@ main{
 .flex-container{
   max-width: 100px;
   display: flex;
-  flex: row;
+  flex-direction: row;
 }
 
 flex-container img{
