@@ -2,6 +2,11 @@
 1. Global Values
 ================*/
 
+@font-face {
+  font-family: "open sans";
+  src: url(../fonts/Andika-Regular.ttf);
+}
+
 body {
     font-family:  'Andika', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
@@ -15,13 +20,6 @@ h1{
   font-size: 40px;
   color: #fff;
 }
-
-
-@font-face {
-  font-family: "open sans";
-  src: url(../fonts/Andika-Regular.ttf);
-}
-
 
 main{
     flex:1;
@@ -375,6 +373,19 @@ main{
   display: inline-block;
   max-width: 200px;
 }
+
+    /*==============
+7. Adress
+================*/
+
+.find-us,
+.hours
+.cafe{
+  max-width: 300px;
+}
+
+
+
 
 
 
