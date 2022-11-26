@@ -107,7 +107,6 @@ main{
 ================*/
 
 
-
 .container{
   height: auto;
   display: flex;
@@ -116,7 +115,9 @@ main{
   margin: 0 auto;
 }
 
-.welcome1 , .welcome2, .welcome3 {
+.welcome1,
+.welcome2,
+.welcome3 {
   height: 400px;
   display: flex;
   margin-top: 5px;
@@ -125,7 +126,9 @@ main{
   position: relative;
 }
 
-.welcome1 img, .welcome2 img, .welcome3 img {
+.welcome1 img,
+.welcome2 img,
+.welcome3 img {
   height: 400px;
   max-width: 267px;
   display: flex;
@@ -135,7 +138,10 @@ main{
 }
 
 
-.visit-text, .weekend-text, .program-text, .ex-text {
+.visit-text,
+.weekend-text,
+.program-text,
+.ex-text {
   background: rgb(0,0,0,0.5);
   padding: 25px;  
   font-size: 30px;
@@ -152,21 +158,21 @@ main{
   text-decoration: none;
   color: #fff;
 }
-  .welcome-exhibition{
-    background-image: url(../images/Moon2.jpg);
-height: 400px;
-background-size: cover;
-background-repeat: no-repeat;
-display: flex;
-background-position-y: center;
-margin-top: 20px;
-position: relative;
-justify-content: center;
-border-color: white;
-border-style: solid;
-border-right: none;
-border-left: none;
-  }
+.welcome-exhibition{
+  background-image: url(../images/Moon2.jpg);
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  background-position-y: center;
+  margin-top: 20px;
+  position: relative;
+  justify-content: center;
+  border-color: white;
+  border-style: solid;
+  border-right: none;
+  border-left: none;
+}
 
 
 
