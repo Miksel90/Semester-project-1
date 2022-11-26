@@ -98,7 +98,6 @@ main{
   
   nav a:hover,.bottom-nav a:hover {
     font-weight: bold;
-    font-size: 20px;
     border-radius: 5px;
     transition: 0.5s;
   }
