@@ -346,7 +346,8 @@ main{
   flex-direction: column;
   text-align: left;
   padding: 50px;
-  color:#fff
+  color:#fff;
+  margin:auto;
 }
 
 .Infobox2{
