@@ -130,9 +130,6 @@ main{
   flex-wrap: wrap;
 }
 
-.welcome3 img{
-}
-
 
 .visit-text, .weekend-text, .program-text {
   position: absolute;
@@ -140,7 +137,6 @@ main{
 }
 
   .welcome-exhibition{
-    background-image: url(../images/Moon2.jpg);
     background-position: center;
     height: 400px;
     width: 500px;
