@@ -383,7 +383,7 @@ main{
 .cafe  {
   max-width: 100px;
   max-height: 100px;
-  background-size: contain;
+  object-fit: contain;
 }
  
 .find-us img,
