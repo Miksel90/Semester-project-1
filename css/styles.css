@@ -226,6 +226,11 @@ margin-top: 20px;
 align-items: center;
 flex-wrap: wrap;
 }
+
+.colum-contact{
+  text-align: left;
+}
+
  .a:link a:visited{
     text-decoration: none;
     color: #fff;
