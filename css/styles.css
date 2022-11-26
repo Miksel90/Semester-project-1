@@ -142,9 +142,10 @@ main{
     width: 500px;
     background-repeat: no-repeat;
     margin-top: 15px;
-    background-size: contain;
+    background-size: cover;
     display: flex;
-    align-self: center;
+    background-position-y: center;
+  
   }
 
   .btn1 a{
