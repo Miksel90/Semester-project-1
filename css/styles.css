@@ -378,9 +378,9 @@ main{
 7. Adress
 ================*/
 
-.find-us,
-.hours
-.cafe{
+.find-us img,
+.hours img
+.cafe img{
   max-width: 300px;
 }
 
