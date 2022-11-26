@@ -62,6 +62,7 @@ main{
       padding:10px 10px;
       display: flex;
       align-self: center;
+      font-weight: bold;
     }
   
   nav ul li a{
@@ -92,7 +93,7 @@ main{
   
   nav a:hover,.bottom-nav a:hover {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 20px;
     border-radius: 5px;
     transition: 0.5s;
   }
