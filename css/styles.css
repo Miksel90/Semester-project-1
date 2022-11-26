@@ -463,3 +463,10 @@ Media Queries
         flex: 50%;
       }
     }
+
+    @media(max-width:1000px){
+    .flex-container{
+      margin-right: 300px;
+      margin-left: 300px;
+    }
+  }
