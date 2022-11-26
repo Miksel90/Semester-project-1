@@ -11,6 +11,11 @@ body {
     background-color:#cf2e2e;
   }
 
+@font-face {
+  font-family: "open sans";
+  src: url(../fonts/Andika-Regular.ttf);
+}
+
 
 main{
     flex:1;
