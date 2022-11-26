@@ -396,13 +396,10 @@ main{
 .mapbox,
 .hourbox,
 .cafebox,
-.shopbox,{
+.shopbox{
   flex: 50%;
 }
 
-.hoursbox{
-  flex:50%
-}
 
 
     /*==============
