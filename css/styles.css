@@ -151,7 +151,7 @@ main{
   padding: 25px;  
   font-size: 30px;
   position: absolute;
-  bottom: 0px;
+  bottom: 5px;
   font-weight: bold;
   border-radius: 5px;
 }
