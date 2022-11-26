@@ -382,17 +382,8 @@ main{
   max-width: 100px;
 }
 
-.hours,
-.cafe  {
+flex-container img{
   max-width: 100px;
-  max-height: 100px;
-  object-fit: contain;
-}
- 
-.find-us img,
-.hours img
-.cafe img{
-  max-width: 300px;
   max-height: 100px;
 }
 
