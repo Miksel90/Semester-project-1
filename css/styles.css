@@ -353,7 +353,7 @@ main{
   margin-top: 10px;
 }
 
-.ticketbutton A{
+.ticketbutton a{
   font-size: 25px;
   background-color: #0071bc;
   color: white;
@@ -363,6 +363,7 @@ main{
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  max-width: 50px;
 }
 
 
