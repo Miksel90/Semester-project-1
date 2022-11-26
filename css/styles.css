@@ -461,3 +461,10 @@ Media Queries
         flex: 50%;
       }
     }
+
+    @media(min-width:1200px){
+    .flex-container{
+      margin-right: 300px;
+      margin-left: 300px;
+    }
+  }
