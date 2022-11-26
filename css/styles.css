@@ -134,6 +134,14 @@ main{
 .visit-text, .weekend-text, .program-text {
   position: absolute;
   bottom: 10px;
+  background: rgb(0,0,0,0.5);
+  padding: 30px;  
+  width: 100%;
+  height: 20px;
+  font-size: 30px;
+  position: absolute;
+  bottom: 0px;
+  font-weight: bold;
 }
 
   .welcome-exhibition{
