@@ -380,6 +380,7 @@ main{
 ================*/
 
 .flex-container{
+  margin-top: 10px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
