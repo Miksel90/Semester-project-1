@@ -484,11 +484,10 @@ Cafè
 }
 
 .cafe2{
-  flex-direction: column;
   display: flex;
   justify-content: space-evenly;
-  flex-wrap: wrap;
   align-items: center;
+  gap: 30px;
 }
     /*==============
 Media Queries
