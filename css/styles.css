@@ -480,6 +480,7 @@ Cafè
 .cafe2 img{
   height: auto;
   width: 60%;
+  min-width: 500px;
 }
 
 .cafe2{
