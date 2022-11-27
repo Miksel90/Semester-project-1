@@ -503,10 +503,12 @@ Media Queries
     height:125px;
     width: 125px;
   }
+  .container{
+    flex-wrap: nowrap;
+  }
 }
 
   @media(min-width:1000px){
-  
     .search-input{
       display: block;
     }
