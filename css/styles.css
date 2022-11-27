@@ -464,6 +464,7 @@ Opening Hours
 .container img{
   height: 475px;
   margin-top: 10px;
+  max-width: 260px;
 }
 
     /*==============
