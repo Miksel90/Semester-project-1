@@ -513,7 +513,6 @@ Media Queries
     .flex-container{
      flex-wrap: nowrap;
      flex-direction: column;
-     gap: 20px
     }
   }
 
