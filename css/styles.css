@@ -125,8 +125,6 @@ main{
 .welcome3 {
   height: 400px;
   display: flex;
-  margin-top: 5px;
-  margin-bottom: 5px;
   justify-content: space-around;
   position: relative;
 }
@@ -134,7 +132,6 @@ main{
 .welcome1 img,
 .welcome2 img,
 .welcome3 img {
-  height: 400px;
   max-width: 267px;
   display: flex;
   border-color: #fff;
@@ -148,8 +145,8 @@ main{
 .program-text,
 .ex-text {
   background: rgb(0,0,0,0.5);
-  padding: 25px;  
-  font-size: 30px;
+  padding: 20px;  
+  font-size: 18px;
   position: absolute;
   bottom: 5px;
   font-weight: bold;
