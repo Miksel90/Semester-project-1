@@ -486,13 +486,7 @@ Cafè
   margin-right: 10px;
 }
 
-.cafe2{
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  gap: 30px;
-  flex-direction: row;
-}
+
     /*==============
 Media Queries
 ================*/
@@ -505,12 +499,6 @@ Media Queries
   .logo img{
     height:125px;
     width: 125px;
-  }
-}
-
-@media(min-width:500){
-  .cafe2 {
-    flex-direction: column;
   }
 }
 
