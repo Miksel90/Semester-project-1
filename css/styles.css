@@ -508,8 +508,8 @@ Media Queries
   }
 }
 
-@media(min-width:1100){
-  .cafe2 img{
+@media(min-width:500){
+  .cafe2 {
     flex-direction: column;
   }
 }
