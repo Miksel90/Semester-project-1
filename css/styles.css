@@ -445,7 +445,10 @@ Opening Hours
   color:#fff;
   margin:auto;
   font-size: 25px;
+}
 
+.find1 ul li{
+  list-style: none;
 }
     /*==============
 Media Queries
