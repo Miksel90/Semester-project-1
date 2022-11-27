@@ -475,6 +475,10 @@ Cafè
   height:700px;
   width:50%;
 }
+
+.column img{
+  height: 300px;
+}
     /*==============
 Media Queries
 ================*/
