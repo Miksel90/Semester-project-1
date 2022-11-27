@@ -524,6 +524,7 @@ Media Queries
     @media(min-width: 428px){
     .flex-container{
      flex-wrap: nowrap;
+     gap: 20px
     }
     .container img{
       width: 600px;
