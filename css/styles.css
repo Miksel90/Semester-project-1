@@ -526,6 +526,7 @@ Media Queries
     }
     .container img{
       width: 600px;
+      gap:20px
     }
     .cafe1 img{
       display: none;
