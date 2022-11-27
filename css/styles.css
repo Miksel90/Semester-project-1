@@ -474,16 +474,12 @@ Cafè
 .cafe1 img{
   height:auto;
   width:50%;
-  min-width: 400px
+  min-width: 400px;
 }
 
 .cafe img{
-  height: auto;
+  height: auti;
   width: 50%;
-}
-
-.cafe2{
-
 }
     /*==============
 Media Queries
