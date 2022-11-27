@@ -520,7 +520,7 @@ Media Queries
       }
     }
 
-    @media(min-width:1400px){
+    media(min-width:1400px){
     .flex-container{
       margin-right: 300px;
       margin-left: 300px;
