@@ -459,7 +459,7 @@ Opening Hours
   border-radius: 5px;
   text-decoration: none;
   display: inline-block;
-  max-width: 200px;
+  padding: 10px;
 }
     /*==============
 Media Queries
