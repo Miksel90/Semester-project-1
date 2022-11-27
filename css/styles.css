@@ -505,6 +505,7 @@ Media Queries
   }
   .container{
     flex-wrap: nowrap;
+    margin: 0 auto;
   }
 }
 
