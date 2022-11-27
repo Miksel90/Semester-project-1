@@ -519,6 +519,9 @@ Media Queries
      flex-direction: column;
      gap: 20px
     }
+  }
+
+  @media(min-width:1000px){
     .container img{
       width: 600px;
       margin-right: 125px;
