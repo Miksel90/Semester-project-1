@@ -510,6 +510,10 @@ Media Queries
     .search-input{
       display: block;
     }
+    .flex-container{
+      flex-wrap: nowrap;
+      .item{flex: 1 1 auto;}
+    }
     }
   
     @media (min-width: 600px) {
