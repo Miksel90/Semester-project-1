@@ -488,6 +488,7 @@ Cafè
   justify-content: space-evenly;
   align-items: center;
   gap: 30px;
+  max-height: 300px;
 }
     /*==============
 Media Queries
