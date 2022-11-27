@@ -511,15 +511,7 @@ Media Queries
       display: block;
     }
     }
-  
-    @media (min-width: 600px) {
-      .mapbox,
-      .hourbox,
-      .cafebox,
-      .shopbox{
-    
-      }
-    }
+
 
     @media(max-width: 428px){
     .flex-container{
