@@ -437,7 +437,7 @@ Opening Hours
 .find1{
   border-color: black;
   border-style: solid;
-  max-width: 800px;
+  max-width: 650px;
   display: flex;
   flex-direction: column;
   padding: 50px;
