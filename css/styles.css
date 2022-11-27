@@ -137,6 +137,7 @@ main{
   border-color: #fff;
   border-style: solid;
   flex-wrap: wrap;
+  border-bottom: none;
 }
 
 
