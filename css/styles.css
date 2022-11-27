@@ -527,4 +527,7 @@ Media Queries
     .container img{
       width: 600px;
     }
+    .cafe1 img{
+      display: none;
+    }
   }
