@@ -516,7 +516,7 @@ Media Queries
     }
   }
 
-  @media(min-width:1000px){
+  @media(min-width:1200px){
     .underbox img{
       width: 600px;
     }
