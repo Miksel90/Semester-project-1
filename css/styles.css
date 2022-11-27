@@ -148,7 +148,7 @@ main{
   padding: 20px;  
   font-size: 18px;
   position: absolute;
-  bottom: 5px;
+  bottom: -20px;
   font-weight: bold;
   border-radius: 5px;
 }
