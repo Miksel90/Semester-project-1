@@ -524,4 +524,7 @@ Media Queries
       margin-right: 300px;
       margin-left: 300px;
     }
+    .container img{
+      width: 3000px;
+    }
   }
