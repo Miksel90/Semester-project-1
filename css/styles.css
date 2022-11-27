@@ -342,7 +342,7 @@ main{
 .infobox, .Infobox2{
   border-color: black;
   border-style: solid;
-  max-width: 550px;
+  max-width: 1000px;
   display: flex;
   flex-direction: column;
   text-align: left;
