@@ -504,8 +504,8 @@ Media Queries
     width: 125px;
   }
   .container{
-    margin-right: -100px;
-    margin-left: -100px;
+    margin-right: 100px;
+    margin-left: 100px;
   }
 }
 
