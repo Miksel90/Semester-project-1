@@ -483,7 +483,9 @@ Cafè
 }
 
 .cafe2{
-
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
 }
     /*==============
 Media Queries
