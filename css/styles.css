@@ -491,7 +491,7 @@ Cafè
   justify-content: space-evenly;
   align-items: center;
   gap: 30px;
-  flex-direction: column;
+  flex-direction: row;
 }
     /*==============
 Media Queries
@@ -508,9 +508,9 @@ Media Queries
   }
 }
 
-@media(max-width:800){
+@media(min-width:1000){
   .cafe2{
-    flex-direction: row;
+    flex-direction: column;
   }
 }
 
