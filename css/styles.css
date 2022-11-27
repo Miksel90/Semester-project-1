@@ -431,6 +431,23 @@ main{
 }
 
     /*==============
+Opening Hours
+================*/
+
+.find1{
+  border-color: black;
+  border-style: solid;
+  max-width: 550px;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  padding: 50px;
+  color:#fff;
+  margin:auto;
+  font-size: 25px;
+
+}
+    /*==============
 Media Queries
 ================*/
 
