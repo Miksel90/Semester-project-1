@@ -280,11 +280,11 @@ main{
   background-color:#fff;
   display: flex;
   justify-content: space-evenly;
-  border-right: #000;
+  border-color: #000;
   border-style: solid;
   border-top: none;
-  border-bottom: none;
   border-left: none;
+  border-right: none;
 }
 
 
