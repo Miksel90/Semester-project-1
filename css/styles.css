@@ -521,7 +521,7 @@ Media Queries
       .hourbox,
       .cafebox,
       .shopbox{
-        flex: 50%;
+    
       }
     }
 
