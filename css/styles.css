@@ -503,7 +503,7 @@ Media Queries
     height:125px;
     width: 125px;
   }
-  .container{
+  container{
     margin-right: 100px;
     margin-left: 100px;
   }
