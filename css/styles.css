@@ -125,6 +125,7 @@ main{
 .welcome3 {
   height: 400px;
   display: flex;
+  margin-top: 5px;
   margin-bottom: 5px;
   justify-content: space-around;
   position: relative;
