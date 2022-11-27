@@ -519,8 +519,6 @@ Media Queries
   @media(min-width:1000px){
     .underbox img{
       width: 600px;
-      margin-right: -100px;
-      margin-left: -100px;
     }
     .cafe1 img{
       display: none;
