@@ -449,6 +449,18 @@ Opening Hours
 .find1 ul li{
   list-style: none;
 }
+
+.ticketbutton2 a{
+  font-size: 25px;
+  background-color: #0071bc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  max-width: 200px;
+}
     /*==============
 Media Queries
 ================*/
