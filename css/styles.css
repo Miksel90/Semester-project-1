@@ -526,8 +526,8 @@ Media Queries
     }
     .container img{
       width: 600px;
-      margin-right: 150px;
-      margin-left: 150px;
+      margin-right: 120px;
+      margin-left: 120px;
     }
     .cafe1 img{
       display: none;
