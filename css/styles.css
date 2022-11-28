@@ -564,6 +564,7 @@ This Weekend
   position: relative;
   flex: 1 1 50%;
   margin-bottom: 15px;
+  margin: 0 auto;
 }
 
 .tweek img{
