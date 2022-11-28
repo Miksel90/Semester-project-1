@@ -497,7 +497,11 @@ The gift shop
   display: flex;
   justify-content: center;
   margin-top: 5px;
- 
+}
+
+.shop2{
+  border-color: #fff;
+  border-style: solid;
 }
 
 
