@@ -494,11 +494,9 @@ The gift shop
 
 .shop1{
   height: 400px;
-  width: 100%
+  width: 100%;
   display: flex;
   justify-content: center;
-  border-color: white;
-  border-style: solid;
  
 }
 
