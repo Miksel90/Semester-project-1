@@ -610,6 +610,10 @@ Program
 .containerprog{
   margin-bottom: 10px;
 }
+
+.containerprog{
+  border-bottom: #fff;
+}
     /*==============
 Media Queries
 ================*/
