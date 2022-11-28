@@ -539,7 +539,7 @@ This Weekend
   display: flex;
   justify-content: space-around;
   position: relative;
-  
+  gap: 30px
 }
 
 .tweekbox img{
