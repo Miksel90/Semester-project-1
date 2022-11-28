@@ -658,6 +658,10 @@ Media Queries
     .cafe1 img{
       display: none;
     }
+  }
+
+  
+  @media(max-width:1200px){
     .program{
       gap:5px;
     }
