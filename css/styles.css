@@ -509,7 +509,8 @@ The gift shop
 }
 
 .shopbox2 img{
-  height:100px;
+  height: 420px;
+  width: 500px;
 }
 .shopbox div{
   flex: 1;
