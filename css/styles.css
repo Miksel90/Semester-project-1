@@ -542,7 +542,11 @@ This Weekend
 }
 
 .tweekbox img{
- height:200px
+  max-width: 267px;
+  display: flex;
+  border-color: #fff;
+  border-style: solid;
+  flex-wrap: wrap;
 }
 
 .tweekbox ul li{
