@@ -507,6 +507,7 @@ The gift shop
 
 .shop2{
 font-size: 20px;
+z-index: 99;
 }
 
 .shoptop{
