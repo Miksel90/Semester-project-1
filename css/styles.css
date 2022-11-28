@@ -658,4 +658,7 @@ Media Queries
     .cafe1 img{
       display: none;
     }
+    .program{
+      gap:5px;
+    }
   }
