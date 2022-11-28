@@ -556,7 +556,6 @@ This Weekend
   text-align: center;
   color: #fff;
   margin-left: 10px;
-  margin-top: 10px;
 }
 
 .tweek{
@@ -565,6 +564,7 @@ This Weekend
   position: relative;
   flex: 1 1 50%;
   margin-bottom: 15px;
+  margin-top: 10px;
 }
 
 .tweek img{
