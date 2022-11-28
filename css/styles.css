@@ -570,6 +570,9 @@ Media Queries
     height:125px;
     width: 125px;
   }
+  .underbox img{
+    display: none;
+  }
 }
 
   @media(min-width:1000px){
