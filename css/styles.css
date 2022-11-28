@@ -577,4 +577,7 @@ Media Queries
     .cafe1 img{
       display: none;
     }
+    .rounded{
+      width: 50%;
+    }
   }
