@@ -551,8 +551,7 @@ This Weekend
 }
 
 .tweekbox img{
-  width: 400px;
-  height: 400px;
+  max-width: 267px;
   display: flex;
   border-color: #fff;
   border-style: solid;
@@ -563,7 +562,6 @@ This Weekend
   list-style: none;
   text-align: left;
   color: #fff;
-  max-width: 350px;
 }
 
     /*==============
