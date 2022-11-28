@@ -553,6 +553,9 @@ Media Queries
     .search-input{
       display: block;
     }
+    .shopbox2{
+      flex-wrap: nowrap;
+    }
     }
 
 
