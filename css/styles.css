@@ -549,6 +549,7 @@ This Weekend
   border-color: #000;
   max-width: 400px;
   margin: 0 auto;
+  margin-top: 10px;
 }
 
 .weekendtext ul li{
