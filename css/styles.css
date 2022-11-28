@@ -539,6 +539,7 @@ This Weekend
   display: flex;
   justify-content: space-around;
   position: relative;
+  
 }
 
 .tweekbox img{
@@ -575,6 +576,9 @@ Media Queries
       display: block;
     }
     .shopbox2{
+      flex-wrap: nowrap;
+    }
+    .tweekbox{
       flex-wrap: nowrap;
     }
     }
