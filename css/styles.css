@@ -507,6 +507,12 @@ Cafè
   margin-top: 10px;
 }
 
+.underbox img{
+  height: 420px;
+  width: 500px;
+  border-style: solid;
+  border-color: #fff;
+}
     /*==============
 The gift shop
 ================*/
