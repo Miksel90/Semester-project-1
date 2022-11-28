@@ -511,6 +511,8 @@ The gift shop
 .shopbox2 img{
   height: 420px;
   width: 500px;
+  border-style: solid;
+  border-color: #fff;
 }
 .shopbox div{
   flex: 1;
