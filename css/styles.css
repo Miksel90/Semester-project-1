@@ -535,6 +535,9 @@ max-width: 770px;
 This Weekend
 ================*/
 
+.tweekbox{
+  flex: 50%;
+}
 
 .tweekbox ul li{
   list-style: none;
