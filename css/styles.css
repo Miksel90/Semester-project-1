@@ -47,6 +47,7 @@ main{
   .rounded{
     width: 58%;
     margin-top: -12px;
+    z-index: -1;
   }
 
 
@@ -507,7 +508,6 @@ The gift shop
 
 .shop2{
 font-size: 20px;
-z-index: 99;
 }
 
 .shoptop{
