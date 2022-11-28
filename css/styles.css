@@ -127,18 +127,14 @@ main{
   margin: 0 auto;
 }
 
-.welcome1,
-.welcome2,
-.welcome3 {
+.welcome {
   height: 400px;
   display: flex;
   justify-content: space-around;
   position: relative;
 }
 
-.welcome1 img,
-.welcome2 img,
-.welcome3 img {
+.welcome img {
   max-width: 267px;
   display: flex;
   border-color: #fff;
