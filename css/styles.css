@@ -629,6 +629,9 @@ Media Queries
   .tweek{
     gap:2px;
   }
+  .some-container2{
+    display: none;
+  }
 }
 
   @media(min-width:1000px){
