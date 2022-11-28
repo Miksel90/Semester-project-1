@@ -55,6 +55,10 @@ main{
 2. Navigation
 ================*/
 
+.logo{
+  z-index:1;
+}
+
 .logo img {
     display: flex;
     align-self: center;
@@ -64,7 +68,9 @@ main{
   nav {
     background-color: #0071bc;
     width: 100%;
-    justify-content: space-evenly;
+    justify-content: stretch;
+    align-items: center;
+    margin-left: -125px;
   }
   
     nav ul{
