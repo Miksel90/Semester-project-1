@@ -499,12 +499,10 @@ The gift shop
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
-  background-position-y: center;
   justify-content: center;
   border-color: white;
   border-style: solid;
-  border-right: none;
-  border-left: none;
+ 
 }
 
 
