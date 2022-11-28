@@ -497,22 +497,6 @@ Cafè
   margin-right: 10px;
 }
 
-.underbox{
-  display: flex;
-  margin: 0 auto;
-  gap: 50px;
-  justify-content: center;
-  flex-direction: row;
-  flex-flow: wrap;
-  margin-top: 10px;
-}
-
-.underbox img{
-  height: 420px;
-  width: 500px;
-  border-style: solid;
-  border-color: #fff;
-}
     /*==============
 The gift shop
 ================*/
