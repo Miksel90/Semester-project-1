@@ -628,6 +628,11 @@ border-right: none;
 border-left: none;
 }
 
+.Exhibitions1{
+  background-image: url(../images/Cosmology.jpg);
+}
+
+
     /*==============
 Media Queries
 ================*/
