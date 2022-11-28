@@ -559,4 +559,7 @@ Media Queries
     .shop1 img{
       display: none;
     }
+    .shop3{
+      width:200px
+    }
   }
