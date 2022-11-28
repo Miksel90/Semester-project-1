@@ -597,6 +597,8 @@ Program
   display: flex;
   justify-content: space-evenly;
   gap: 750px;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
     /*==============
 Media Queries
