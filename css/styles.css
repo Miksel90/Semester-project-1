@@ -459,7 +459,7 @@ Opening Hours
 
 .underbox img{
   height: 475px;
-  width: 100%;
+  width: 400px;
   margin-top: 10px;
   border-style: solid;
   border-color: #fff;
@@ -569,9 +569,6 @@ Media Queries
   .logo img{
     height:125px;
     width: 125px;
-  }
-  .underbox img{
-    display: none;
   }
 }
 
