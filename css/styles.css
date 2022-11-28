@@ -148,10 +148,7 @@ main{
 }
 
 
-.visit-text,
-.weekend-text,
-.program-text,
-.ex-text {
+.hptext {
   background: rgb(0,0,0,0.5);
   padding: 20px;  
   font-size: 18px;
@@ -161,11 +158,7 @@ main{
   border-radius: 5px;
 }
 
-.visit-text a,
-.weekend-text a,
-.program-text a,
-.ex-text a,
-.info-text a{
+.hptext a{
   text-decoration: none;
   color: #fff;
 }
@@ -541,6 +534,14 @@ max-width: 770px;
 .shop3{
   margin-top: 5px;
 }
+
+
+    /*==============
+This Weekend
+================*/
+
+
+
 
     /*==============
 Media Queries
