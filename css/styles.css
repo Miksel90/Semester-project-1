@@ -508,6 +508,9 @@ The gift shop
   flex-flow: wrap;
 }
 
+.shopbox2 img{
+  height:100px;
+}
 .shopbox div{
   flex: 1;
 }
