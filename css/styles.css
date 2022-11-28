@@ -507,6 +507,10 @@ The gift shop
   justify-content: center;
 }
 
+.shopbox div{
+  flex: 1;
+}
+
 .shop1{
   width: 100%;
   display: flex;
