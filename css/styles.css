@@ -568,7 +568,7 @@ This Weekend
 }
 
 .tweek img{
-  max-width: 250px;
+width: 500px;
   display: flex;
   border-color: #fff;
   border-style: solid;
