@@ -510,7 +510,9 @@ The gift shop
 font-size: 20px;
 }
 
-.shoptop
+.shoptop{
+  font-size: 10px;
+}
 
     /*==============
 Media Queries
