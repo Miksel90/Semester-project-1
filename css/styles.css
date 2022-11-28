@@ -505,6 +505,7 @@ The gift shop
   gap: 50px;
   justify-content: center;
   flex-direction: row;
+  flex-flow: wrap;
 }
 
 .shopbox div{
