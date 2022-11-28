@@ -560,6 +560,9 @@ Media Queries
     .shopbox2{
       flex-wrap: nowrap;
     }
+    .rounded{
+      width: 50%;
+    }
     }
 
 
@@ -576,8 +579,5 @@ Media Queries
     }
     .cafe1 img{
       display: none;
-    }
-    .rounded{
-      width: 50%;
     }
   }
