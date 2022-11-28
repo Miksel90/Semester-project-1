@@ -639,6 +639,7 @@ border-style: solid;
 
 .Exhibitions1{
   background-image: url(../images/Cosmology.jpg);
+  border-bottom: none;
 }
 
 
