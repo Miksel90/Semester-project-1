@@ -603,6 +603,7 @@ Media Queries
 @media(max-width: 700px){
   .tweek img{
     max-width: 257px;
+    gap: 5px;
   }
 }
 
