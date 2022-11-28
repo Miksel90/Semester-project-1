@@ -610,6 +610,25 @@ Program
   margin-bottom: 10px;
 }
 
+
+    /*==============
+Exhibitions
+================*/
+.Exhibitions{
+height: 400px;
+background-size: cover;
+background-repeat: no-repeat;
+display: flex;
+background-position-y: center;
+margin-top: -2px;
+position: relative;
+justify-content: center;
+border-color: white;
+border-style: solid;
+border-right: none;
+border-left: none;
+}
+
     /*==============
 Media Queries
 ================*/
