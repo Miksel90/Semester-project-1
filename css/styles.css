@@ -551,6 +551,11 @@ This Weekend
   margin: 0 auto;
 }
 
+.weekendtext ul li{
+  list-style: none;
+  text-align: left;
+  color: #fff;
+}
 
 .tweek{
   height: 400px;
