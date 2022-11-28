@@ -543,6 +543,13 @@ max-width: 770px;
     /*==============
 This Weekend
 ================*/
+
+.weekendtext{
+  border-style: solid;
+  border-color: #000;
+}
+
+
 .tweek{
   height: 400px;
   display: flex;
