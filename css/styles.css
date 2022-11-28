@@ -494,9 +494,7 @@ The gift shop
 
 .shop1{
   height: 400px;
-  width: 200px;
-  background-size: cover;
-  background-repeat: no-repeat;
+  width: 100%
   display: flex;
   justify-content: center;
   border-color: white;
