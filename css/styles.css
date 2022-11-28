@@ -463,6 +463,7 @@ Opening Hours
   margin-top: 10px;
   border-style: solid;
   border-color: #fff;
+  overflow: hidden;
 }
 
     /*==============
