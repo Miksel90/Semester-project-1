@@ -68,9 +68,7 @@ main{
   nav {
     background-color: #0071bc;
     width: 100%;
-    justify-content: stretch;
-    align-items: center;
-    margin-left: -125px;
+    justify-content: space-evenly;
   }
   
     nav ul{
