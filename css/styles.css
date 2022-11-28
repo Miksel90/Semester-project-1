@@ -616,7 +616,7 @@ Exhibitions
 ================*/
 .Exhibitions{
 height: 400px;
-background-size: cover;
+background-size: contain;
 background-repeat: no-repeat;
 display: flex;
 position: relative;
