@@ -565,10 +565,11 @@ This Weekend
   position: relative;
   margin-bottom: 15px;
   margin-top: 10px;
+  gap:30px;
 }
 
 .tweek img{
-width: 500px;
+  width: 500px;
   display: flex;
   border-color: #fff;
   border-style: solid;
