@@ -510,6 +510,8 @@ The gift shop
   border-color: #fff;
   border-style: solid;
   max-width: 300px;
+  display: flex;
+flex-direction: column;
 }
 
 .shoptop
