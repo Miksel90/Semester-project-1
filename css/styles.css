@@ -596,7 +596,7 @@ Program
 .program{
   display: flex;
   justify-content: space-evenly;
-  gap: 200px;
+  gap: 500px;
 }
     /*==============
 Media Queries
