@@ -334,7 +334,7 @@ main{
 ================*/
 
 
-.infobox, .Infobox2{
+.infobox{
   border-color: black;
   border-style: solid;
   max-width: 1000px;
