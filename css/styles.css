@@ -416,15 +416,15 @@ main{
 }
 
 .hours{
-  left:30%
+  left:30%;
 }
 
 .food{
-  left:30%
+  left:30%;
 }
 
 .shop{
-  left:34%
+  right:34%;
 }
 
     /*==============
