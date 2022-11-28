@@ -499,6 +499,14 @@ Cafè
 The gift shop
 ================*/
 
+.shopbox{
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 100px;
+  justify-content: center;
+}
+
 .shop1{
   width: 100%;
   display: flex;
