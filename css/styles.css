@@ -544,6 +544,7 @@ This Weekend
 
 .tweekbox img{
   max-width: 400px;
+  max-height: 400px;
   display: flex;
   border-color: #fff;
   border-style: solid;
