@@ -186,18 +186,16 @@ main{
 
   .btn1, .btn2{
     text-align: center;
-    margin-top: 10px;
   }
 
   .btn1 a{
     font-size: 25px;
     background-color: green;
     color: white;
-    padding: 12px 24px;
+    padding: 5px 24px;
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     margin-bottom: 20px;
