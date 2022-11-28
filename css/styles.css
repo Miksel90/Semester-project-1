@@ -562,7 +562,6 @@ This Weekend
   height: 400px;
   display: flex;
   position: relative;
-  flex: 1 1 50%;
   margin-bottom: 15px;
   margin-top: 10px;
 }
