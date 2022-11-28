@@ -541,6 +541,8 @@ This Weekend
 
 .tweekbox ul li{
   list-style: none;
+  text-align: left;
+  color: #fff;
 }
 
     /*==============
