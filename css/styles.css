@@ -535,6 +535,9 @@ max-width: 770px;
 This Weekend
 ================*/
 .tweekbox{
+  height: 400px;
+  display: flex;
+  justify-content: space-around;
   position: relative;
 }
 
