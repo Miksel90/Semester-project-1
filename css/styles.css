@@ -353,6 +353,7 @@ main{
   text-align: center;
   background-color: greenyellow;
   color: #000;
+  border-radius: 5px;
 }
 
 .ticketbutton{
