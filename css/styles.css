@@ -76,7 +76,7 @@ main{
     justify-content: space-evenly;
   }
   
-    nav ul{
+    nav ul{ 
       display: flex;
       justify-content: space-evenly;
       list-style: none;
@@ -589,6 +589,13 @@ This Weekend
   margin-left: 10px;
 }
 
+    /*==============
+Program
+================*/
+
+.program{
+  display: flex;
+}
     /*==============
 Media Queries
 ================*/
