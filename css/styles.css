@@ -417,13 +417,17 @@ main{
 
 .hours{
   left:30%;
+  bottom:5px;
 }
 
 .food{
   left:30%;
+  bottom:5px;
 }
 
 .shop{
+  left: 10%;
+  bottom:5px;
 }
 
     /*==============
