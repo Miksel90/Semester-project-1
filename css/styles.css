@@ -504,6 +504,7 @@ Cafè
   justify-content: center;
   flex-direction: row;
   flex-flow: wrap;
+  margin-top: 10px;
 }
 
     /*==============
