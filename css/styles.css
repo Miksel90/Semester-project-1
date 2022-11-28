@@ -503,8 +503,9 @@ The gift shop
   display: flex;
   max-width: 1200px;
   margin: 0 auto;
-  gap: 100px;
+  gap: 50px;
   justify-content: center;
+  flex-direction: row;
 }
 
 .shopbox div{
