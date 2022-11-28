@@ -509,9 +509,10 @@ The gift shop
 .shop2{
   border-color: #fff;
   border-style: solid;
+  max-width: 300px;
 }
 
-
+.shoptop
 
     /*==============
 Media Queries
