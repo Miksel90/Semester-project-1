@@ -598,6 +598,9 @@ Media Queries
     width: 125px;
     float: left;
   }
+  .tweek img{
+    max-width: 257px;
+  }
 }
 
   @media(min-width:1000px){
