@@ -19,6 +19,7 @@ body {
     flex-direction: column;
     text-align: center;
     background-color:#cf2e2e;
+    color: #fff;
   }
 
 h1,h2{
