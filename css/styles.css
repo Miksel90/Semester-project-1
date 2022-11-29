@@ -656,6 +656,10 @@ Exhibitions
   background-position: bottom;
   height: 1000px;
 }
+
+.exspectext{
+  max-width: 300px;
+}
     /*==============
 Media Queries
 ================*/
