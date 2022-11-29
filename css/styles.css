@@ -190,7 +190,10 @@ main{
 
 .hptext2{
   font-size: 40px;
-  bottom: 5px;
+  position: relative;
+  max-width: 400px;
+  margin: auto;
+  bottom: 110px;
 }
 
 
