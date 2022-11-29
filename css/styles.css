@@ -213,7 +213,6 @@ main{
   }
   
 
-
   .adressbox{
     border-color: black;
     border-style: solid;
@@ -628,9 +627,11 @@ border-style: solid;
 border-bottom: none;
 }
 
+.hptextexhibitions{
+  font-size: 30px;
+}
 
-
-.exhibitions1{
+.Exhibitions1{
   background-image: url(../images/Cosmology.jpg);
 }
 
