@@ -609,8 +609,7 @@ Program
 Exhibitions
 ================*/
 
-.exhibitions1{
-  background-image: url(../images/Cosmology.jpg);
+.exhibitions{
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -624,7 +623,9 @@ Exhibitions
   border-style: solid;
 }
 
-
+.ex1{
+  background-image: url(../images/Cosmology.jpg);
+}
     /*==============
 Media Queries
 ================*/
