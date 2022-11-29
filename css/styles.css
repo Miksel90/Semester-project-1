@@ -647,8 +647,8 @@ Exhibitions
   background-image: url(../images/Airplane.jpg);
 }
 
-ex7{
-  background-image: url(../images/3d\ print.jpg);
+.ex7{
+  background-image: url(../images/Science\ center.jpg);
 }
     /*==============
 Media Queries
