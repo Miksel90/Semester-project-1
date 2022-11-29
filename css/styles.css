@@ -173,10 +173,8 @@ main{
 }
 
 
-
 .hpbanner{
   width: 100%;
-
 }
 
 .hpbanner img {
@@ -192,7 +190,8 @@ main{
 
 
 
-  .btn1, .btn2{
+  .btn1,
+  .btn2{
     text-align: center;
   }
 
