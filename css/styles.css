@@ -655,6 +655,10 @@ Exhibitions
 Exhibtions specific
 ================*/
 
+.specific{
+  max-width: 300px;
+}
+
 .cosmos img{
   width: 2000px;
 }
