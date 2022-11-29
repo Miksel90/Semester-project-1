@@ -222,14 +222,9 @@ main{
     width: 260px;
     background-color:#0071bc;
     margin-top: 10px;
+    list-style: none;
+    text-align: left;
   }
-
-
-  .adressbox{
-   list-style: none;
-   text-align: left;
-  }
-
 
     /*==============
 4. Footer
