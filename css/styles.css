@@ -649,6 +649,11 @@ Exhibitions
 .ex7{
   background-image: url(../images/science\ lab.webp);
 }
+
+
+.exspecific{
+  background-image: url(../images/cosmos.webp);
+}
     /*==============
 Media Queries
 ================*/
