@@ -173,7 +173,7 @@ main{
 }
 
 .welexhibition img {
-  height:auto;
+  height:800px
   width: 100%;
   display: flex;
   margin-top: -2px;
