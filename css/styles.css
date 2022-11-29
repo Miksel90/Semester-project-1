@@ -611,6 +611,17 @@ Exhibitions
 
 .exhibitions1{
   background-image: url(../images/Cosmology.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:500px;
+  width: 100%;
+  display: flex;
+  margin-top: -2px;
+  position: relative;
+  justify-content: center;
+  border-color: white;
+  border-style: solid;
 }
 
 
