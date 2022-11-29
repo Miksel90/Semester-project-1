@@ -173,9 +173,6 @@ main{
 }
 
 
-.hpbanner{
-  width: 100%;
-}
 
 .welexhib{
   background-image: url(../images/Moon.jpg);
@@ -192,7 +189,9 @@ main{
   border-style: solid;
 }
 
-
+.hptext2{
+  font-size: 30px;
+}
 
   .btn1,
   .btn2{
