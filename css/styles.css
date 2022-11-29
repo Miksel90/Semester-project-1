@@ -626,6 +626,30 @@ Exhibitions
 .ex1{
   background-image: url(../images/Cosmology.jpg);
 }
+
+.ex2{
+  background-image: url(../images/Evolution.jpg);
+}
+
+.ex3{
+  background-image: url(../images/Biology.jpg);
+}
+
+.ex4{
+  background-image: url(../images/Robotics.jpg);
+}
+
+.ex5{
+  background-image: url(../images/Ecology.jpg);
+}
+
+.ex6{
+  background-image: url(../images/Airplane.jpg);
+}
+
+ex7{
+  background-image: url(../images/Science\ center.jpg);
+}
     /*==============
 Media Queries
 ================*/
