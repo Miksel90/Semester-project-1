@@ -653,19 +653,12 @@ Exhibitions
 Exhibtions specific
 ================*/
 
-.specific{
+.exhibition-text{
   max-width: 600px;
   text-align: left;
   font-size: 30px;
 }
 
-.cosmos{
-  width: 2000px;
-}
-
-.exspectext{
-  max-width: 300px;
-}
     /*==============
 Media Queries
 ================*/
