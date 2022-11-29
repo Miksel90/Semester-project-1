@@ -651,10 +651,8 @@ Exhibitions
 }
 
 
-.exspecific{
-  background-image: url(../images/cosmos.webp);
-  background-position: bottom;
-  height: 1000px;
+.cosmos{
+  width: 2000px;
 }
 
 .exspectext{
