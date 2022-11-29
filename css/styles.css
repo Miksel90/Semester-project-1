@@ -656,7 +656,7 @@ Exhibtions specific
 .exhibition-text{
   max-width: 600px;
   font-size: 30px;
-  text-align: center;
+  margin: auto;
 }
 
     /*==============
