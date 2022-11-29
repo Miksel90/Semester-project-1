@@ -213,16 +213,6 @@ main{
   }
   
 
-
-  .newsrow{
-    display: flex;
-    justify-content: space-evenly;
-    margin-top: 20px;
-    align-items: center;
-    flex-wrap: wrap;
-    color: #fff;
-  }
-
   .newsbox,
   .adressbox{
     border-color: black;
