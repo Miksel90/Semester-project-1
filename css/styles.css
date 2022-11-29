@@ -179,6 +179,7 @@ main{
 
 .welexhib{
   background-image: url(../images/Moon.jpg);
+  background-image: url(../images/Airplane.jpg);
   height:600px;
   width: 100%;
   display: flex;
