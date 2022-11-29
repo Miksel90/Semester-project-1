@@ -177,7 +177,8 @@ main{
   width: 100%;
 }
 
-.hpbanner img {
+.welexhib{
+  background-image: url(../images/Moon.jpg);
   height:600px;
   width: 100%;
   display: flex;
@@ -188,13 +189,6 @@ main{
   border-style: solid;
 }
 
-.hptext2{
-  font-size: 40px;
-  position: relative;
-  max-width: 400px;
-  margin: auto;
-  bottom: 110px;
-}
 
 
   .btn1,
