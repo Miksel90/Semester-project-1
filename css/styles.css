@@ -621,6 +621,7 @@ Exhibitions
   justify-content: center;
   border-color: white;
   border-style: solid;
+  gap: 10px;
 }
 
 .ex1{
