@@ -608,23 +608,6 @@ Program
     /*==============
 Exhibitions
 ================*/
-.Exhibitions{
-height: 400px;
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-size: 100% auto;
-display: flex;
-position: relative;
-justify-content: center;
-border-color: white;
-border-style: solid;
-border-bottom: none;
-}
-
-.hptextexhibitions{
-  font-size: 30px;
-}
 
 .exhibitions1{
   background-image: url(../images/Cosmology.jpg);
