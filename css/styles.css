@@ -664,6 +664,7 @@ Exhibtions specific
   background-size: cover;
   background-position: center;
   width: 100%;
+  height: auto;
 }
 
 .cosmology{
