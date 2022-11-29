@@ -171,8 +171,7 @@ main{
   text-decoration: none;
   color: #fff;
 }
-.welcome-exhibition{
-  background-image: url(../images/Moon2.jpg);
+.welexhibition{
   height: 400px;
   background-size: cover;
   background-repeat: no-repeat;
