@@ -616,12 +616,11 @@ Exhibitions
   height:500px;
   width: 100%;
   display: flex;
-  margin-top: -2px;
   position: relative;
   justify-content: center;
   border-color: white;
   border-style: solid;
-  gap: 10px;
+  margin-bottom: 5px;
 }
 
 .ex1{
