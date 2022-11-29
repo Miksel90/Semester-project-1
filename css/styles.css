@@ -653,6 +653,7 @@ Exhibitions
 
 .exspecific{
   background-image: url(../images/cosmos.webp);
+  background-position: bottom;
 }
     /*==============
 Media Queries
