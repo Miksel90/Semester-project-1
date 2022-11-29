@@ -171,11 +171,10 @@ main{
   text-decoration: none;
   color: #fff;
 }
+
 .welexhibition img {
   height: 400px;
   width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
   display: flex;
   margin-top: -2px;
   position: relative;
