@@ -659,6 +659,23 @@ Exhibtions specific
   margin: auto;
 }
 
+.Exhib-background{
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:500px;
+  width: 100%;
+  position: relative;
+  justify-content: center;
+  border-color: white;
+  border-style: solid;
+  margin-bottom: 5px;
+}
+
+.cosmology{
+  background-image: url(../images/cosmos.webp)
+}
+
     /*==============
 Media Queries
 ================*/
