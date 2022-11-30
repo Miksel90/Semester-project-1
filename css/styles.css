@@ -719,14 +719,6 @@ margin-top: 10px;
 Schools
 ================*/
 
-.schools{
-  margin-top: 10px;
-}
-
-.schools img{
-  width: 80%;
-  height: 60%;
-}
 
 .schooltext{
 text-align: left;
@@ -767,6 +759,10 @@ Media Queries
   .welcome img {
     max-width: 400px;
   }
+  .schooltext{
+    font-size: 15px;
+  }
+
 }
 
   @media(min-width:1000px){
