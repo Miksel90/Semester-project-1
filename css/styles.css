@@ -500,7 +500,9 @@ max-width: 770px;
   top: 18px;
 }
 
-
+.shop3{
+  margin-top: 5px;
+}
 
 
     /*==============
@@ -610,7 +612,7 @@ Exhibtions specific
   background-position: center;
   width: 100%;
   height: 1000px;
-  margin-bottom: -20px;
+  margin-bottom: 10px;
 }
 
 .cosmology{
