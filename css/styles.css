@@ -714,6 +714,19 @@ margin-top: 10px;
   width: 90%;
   height: 90%;
 }
+
+    /*==============
+Schools
+================*/
+
+.school{
+  position: absolute;
+}
+
+.schooltext{
+  position: relative;
+}
+
     /*==============
 Media Queries
 ================*/
