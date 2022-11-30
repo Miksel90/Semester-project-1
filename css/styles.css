@@ -680,6 +680,10 @@ Exhibtions specific
 Explore Together
 ================*/
 
+.explore {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 
 .explore img {
   max-width: 600px;
