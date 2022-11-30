@@ -711,10 +711,6 @@ Media Queries
     .tweekbox{
       flex-wrap: nowrap;
     }
-    .logo img{
-      margin-left: -300px;
-    }
-
     }
 
 
@@ -728,6 +724,9 @@ Media Queries
   @media(min-width:1200px){
     .cafe1 img{
       display: none;
+    }
+    .logo img{
+      margin-left: -300px;
     }
   }
 
