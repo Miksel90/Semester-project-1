@@ -681,6 +681,11 @@ Explore Together
 
 .kids{
   background-image:url(../images/Kids\ vr.jpg) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 30%;
+  height: 1000px;
 }
 
 
