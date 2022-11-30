@@ -761,6 +761,7 @@ Media Queries
   }
   .schooltext{
     font-size: 15px;
+    max-width: 300px;
   }
 
 }
