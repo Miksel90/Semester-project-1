@@ -723,6 +723,10 @@ Schools
   margin-top: 10px;
 }
 
+.schools img{
+  width: 100%;
+}
+
 .school-text{
   position: relative;
   bottom: 135px;
