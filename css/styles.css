@@ -727,6 +727,9 @@ Media Queries
     height:125px;
     width: 125px;
   }
+  .container2{
+    grid-row: 1 / span 2;
+  }
 }
 
 @media(max-width: 700px){
