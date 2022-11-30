@@ -51,16 +51,16 @@ main{
 
 
   .rounded{
+    width: 90%;
+    margin-left: 5%;
+  }
+
+  .line2{
     margin-top: -12px;
     z-index: -1;
     color: #0071bc;
     float: left;
     width: 40%;
-  }
-
-  .line2{
-    width: 90%;
-    margin-left: 5%;
   }
 
   .line3{
