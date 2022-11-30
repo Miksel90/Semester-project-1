@@ -728,12 +728,8 @@ Schools
   height: 60%;
 }
 
-.school-text{
-  position: relative;
-  bottom: 162px;
-  max-width: 480px;
-  left: 12%;
-  font-size: 15px;
+.schooltext{
+text-align: left;
 }
 
     /*==============
