@@ -690,6 +690,12 @@ Explore Together
  width: 500px;
 }
 
+.container2 {
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+}
 .column2{
   float: left;
 }
