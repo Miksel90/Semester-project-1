@@ -562,31 +562,6 @@ This Weekend
   margin-left: 10px;
 }
 
-.tweek{
-  height: 400px;
-  display: flex;
-  position: relative;
-  margin-bottom: 15px;
-  margin-top: 10px;
-  gap:30px;
-}
-
-.tweek img{
-  width: 500px;
-  display: flex;
-  border-color: #fff;
-  border-style: solid;
-  flex-wrap: wrap;
-}
-
-.tweek ul li{
-  list-style: none;
-  text-align: left;
-  color: #fff;
-  max-width: 200px;
-  margin-left: 10px;
-}
-
     /*==============
 Program
 ================*/
