@@ -622,6 +622,8 @@ margin-top: 10px;
 .explore-img img{
   width: 90%;
   height: 90%;
+  border-color: #fff;
+  border-style: solid;
 }
 
     /*==============
