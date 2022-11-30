@@ -699,6 +699,7 @@ Explore
   grid-template-columns: 1fr 1fr;
   padding: 20px;
   gap: 10px;
+  justify-content: space-evenly;
 }
 .kidstext{
  max-width: 600px;
