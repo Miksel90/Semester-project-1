@@ -724,6 +724,7 @@ Schools
 }
 
 .school-text{
+  position: relative;
   bottom: 135px;
 }
 
