@@ -727,6 +727,9 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
+  .explore-img{
+    grid-row: 1 / span 2;
+  }  
 }
 
 @media(max-width: 700px){
