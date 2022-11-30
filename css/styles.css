@@ -757,6 +757,10 @@ Media Queries
     .kidstext{
       font-size: 30px;
     }
+    .explore-img img{
+      height: 60%;
+      width: 60%;
+    }
     }
 
 
