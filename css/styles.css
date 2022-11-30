@@ -718,7 +718,9 @@ margin-top: 10px;
     /*==============
 Schools
 ================*/
-
+.school img{
+  width: 450px
+}
 
 .schooltext{
 text-align: left;
