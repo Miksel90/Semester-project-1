@@ -717,7 +717,7 @@ Media Queries
   .some-container2{
     display: none;
   }  
-  .explore img {
+  .welcome  img {
     max-width: 400px;
   }
 }
