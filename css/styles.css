@@ -730,7 +730,8 @@ Schools
 
 .school-text{
   position: relative;
-  bottom: 135px;
+  bottom: 162px;
+  max-width: 640px;
 }
 
     /*==============
