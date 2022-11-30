@@ -150,7 +150,7 @@ main{
 }
 
 .welcome img {
-  min-width: 400px;
+  max-width: 267px;
   display: flex;
   border-color: #fff;
   border-style: solid;
