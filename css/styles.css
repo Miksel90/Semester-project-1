@@ -709,9 +709,6 @@ Media Queries
     height:125px;
     width: 125px;
   }
-  .explore img {
-    max-width: 400px;
-  }
 }
 
 @media(max-width: 700px){
@@ -723,6 +720,9 @@ Media Queries
   }
   .some-container2{
     display: none;
+  }  
+  .explore img {
+    max-width: 400px;
   }
 }
 
