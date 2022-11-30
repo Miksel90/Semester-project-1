@@ -758,9 +758,6 @@ Media Queries
     .tweekbox{
       flex-wrap: nowrap;
     }
-    .kidstext{
-      font-size: 30px;
-    }
     }
 
 
@@ -777,6 +774,9 @@ Media Queries
     }
     .logo img{
       margin-left: -300px;
+    }
+    .kidstext{
+      font-size: 30px;
     }
   }
 
