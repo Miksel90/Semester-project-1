@@ -53,6 +53,7 @@ main{
   .rounded{
     width: 90%;
     color: #0071bc;
+    margin-left: 5%;
   }
 
   .line2{
@@ -60,6 +61,7 @@ main{
     z-index: -1;
     float: left;
     width: 40%;
+    margin-left: none;
   }
 
   .line3{
