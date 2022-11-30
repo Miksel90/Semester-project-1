@@ -686,7 +686,6 @@ Media Queries
   .logo img{
     height:125px;
     width: 125px;
-    margin-left: -300px;
   }
 }
 
@@ -712,6 +711,10 @@ Media Queries
     .tweekbox{
       flex-wrap: nowrap;
     }
+    .logo img{
+      margin-left: -300px;
+    }
+
     }
 
 
