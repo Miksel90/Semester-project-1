@@ -691,10 +691,6 @@ Explore Together
 
 .explore img {
   max-width: 600px;
-  display: flex;
-  border-color: #fff;
-  border-style: solid;
-  flex-wrap: wrap;
 }
 
 
