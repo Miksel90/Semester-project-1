@@ -731,7 +731,8 @@ Schools
 .school-text{
   position: relative;
   bottom: 162px;
-  max-width: 640px;
+  max-width: 480px;
+  left: 12%;
 }
 
     /*==============
