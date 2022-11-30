@@ -694,6 +694,10 @@ Explore row HP
     /*==============
 Explore
 ================*/
+.container2{
+
+}
+
 .container2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -749,6 +753,9 @@ Media Queries
     }
     .tweekbox{
       flex-wrap: nowrap;
+    }
+    .kidstext{
+      font-size: 40px;
     }
     }
 
