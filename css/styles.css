@@ -678,6 +678,7 @@ Media Queries
   }
   .newsbox{
     flex-direction: column;
+    max-width: 300px;
   }
 
 }
