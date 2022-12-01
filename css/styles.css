@@ -678,7 +678,6 @@ Media Queries
   }
   .newsletter{
     flex-direction: column;
-    width: 200px;
   }
 
 }
