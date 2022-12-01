@@ -680,6 +680,9 @@ Media Queries
     flex-direction: column;
     max-width: 300px;
   }
+  .newsletter{
+    display: block;
+  }
 
 }
 
@@ -716,8 +719,5 @@ Media Queries
   @media(max-width:1200px){
     .program{
       gap:5px;
-    }
-    .newsletter{
-      display: block;
     }
   }
