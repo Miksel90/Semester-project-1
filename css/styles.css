@@ -698,6 +698,9 @@ Media Queries
      flex-wrap: nowrap;
      flex-direction: column;
     }
+    .newsletter{
+      flex: none;
+    }
   }
 
   @media(min-width:1200px){
