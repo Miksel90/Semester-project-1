@@ -670,6 +670,10 @@ Tickets
   border-style: solid;
 }
 
+.dates{
+  max-width: 1100px;
+}
+
 .color1{
   background-color:#04AA6D;
   border: none;
