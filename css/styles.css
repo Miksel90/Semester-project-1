@@ -747,6 +747,7 @@ Payment
   align-items: center;
   justify-content: space-evenly;
   background-color: #fff;
+  border: 2px solid #0071bc;
   max-width: 310px;
   margin: 0 auto;
  }
