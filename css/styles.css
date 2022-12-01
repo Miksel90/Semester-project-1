@@ -756,6 +756,10 @@ font-size: 25px;
 .ticket-payment div {
   flex: 1;
 }
+
+.column3{
+  flex-direction: column;
+}
     /*==============
 Media Queries
 ================*/
