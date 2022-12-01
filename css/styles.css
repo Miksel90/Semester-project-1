@@ -689,7 +689,8 @@ Tickets
   margin-bottom: 5px;
 }
 
-.color1:hover{
+.color1:hover,
+.select-date:hover{
   background-color: #0071bc;
 }
 
@@ -719,9 +720,6 @@ font-size: 25px;
   margin-bottom: 10px;
 }
 
-.select-date:hover{
-  background-color:#0071bc;
-}
 
 .select-date:active{
   background-color:#0071bc;
