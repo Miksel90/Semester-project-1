@@ -801,6 +801,8 @@ Teacher Form
 .teacher-container{
   max-width: 1000px;
   text-align: start;
+  border-radius: 5px;
+  padding: 20px;
 }
     /*==============
 Media Queries
