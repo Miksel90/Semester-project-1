@@ -69,7 +69,11 @@ main{
   .line3{
     margin-top: 5px;
   }
-
+.line4{
+  width: 80%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
       /*==============
 2. Navigation
 ================*/
