@@ -254,7 +254,7 @@ main{
   border-style: solid;
   padding: 5px 25px;
   font-size: 22px;
-  width: 520px;
+  max-width: 520px;
   background-color:#0071bc;
   margin-top: 10px;
   list-style: none;
