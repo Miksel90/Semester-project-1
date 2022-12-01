@@ -684,6 +684,11 @@ align-items: center;
 color: #fff;
 font-size: 30px;
 }
+
+.fa-plus{
+font-size: 16px;
+}
+
     /*==============
 Media Queries
 ================*/
