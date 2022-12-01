@@ -668,6 +668,10 @@ Tickets
   border-bottom: none;
 }
 
+.trbot{
+  border-bottom: #000;
+  border-style: solid;
+}
 
 .color1{
   background-color: #04AA6D;
