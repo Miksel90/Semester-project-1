@@ -816,7 +816,7 @@ col-75 {
   margin-top: 6px;
 }
 
-row:after {
+.row:after {
   content: "";
   display: table;
   clear: both;
