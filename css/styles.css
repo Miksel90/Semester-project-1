@@ -676,7 +676,7 @@ Media Queries
   .contactbox{
     max-width: 300px;
   }
-  .newsletter{
+  .newsbox{
     flex-direction: column;
   }
 
