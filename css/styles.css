@@ -633,12 +633,6 @@ Media Queries
 }
 
 @media(max-width: 700px){
-  .tweek img{
-    max-width: 257px;
-  }
-  .tweek{
-    gap:2px;
-  }
   .some-container2{
     display: none;
   }  
