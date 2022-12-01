@@ -640,6 +640,9 @@ Register
   flex: 1;
 }
 
+.email{
+  width: 200px;
+}
 
     /*==============
 Media Queries
