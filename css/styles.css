@@ -685,6 +685,10 @@ Tickets
   margin-bottom: 5px;
 }
 
+.color1:hover{
+  background-color: #0071bc;
+}
+
 .ticketnumber{
 color: #fff;
 font-size: 30px;
@@ -695,10 +699,7 @@ font-size: 30px;
 font-size: 25px;
 }
 
-.fa-plus:hover,
-.fa-minus:hover{
-  background-color: #0071bc;
-}
+
 
 .select-date {
   padding: 15px 25px;
