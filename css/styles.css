@@ -659,6 +659,7 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
+  .newsletter{flex-direction: column;}
 }
 
 @media(max-width: 700px){
