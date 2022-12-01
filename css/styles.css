@@ -678,6 +678,8 @@ align-items: center;
   font-size: 16px;
   margin: 4px 2px;
   border-radius: 50%;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .ticketnumber{
@@ -686,7 +688,7 @@ font-size: 30px;
 }
 
 .fa-plus{
-font-size: 16px;
+font-size: 25px;
 }
 
     /*==============
