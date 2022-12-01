@@ -819,6 +819,9 @@ Media Queries
     margin-left: 5px;
     margin-right: 5px;
 }
+.ticket-payment {
+  flex-direction: column;
+}
 
 }
 
