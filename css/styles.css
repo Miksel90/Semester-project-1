@@ -624,6 +624,23 @@ Partner
 }
 
     /*==============
+Register
+================*/
+
+.checkoutinfo{
+  display: flex;
+  justify-content: center;
+  max-width: 400px;
+  margin: 0 auto;
+  gap:20px;
+}
+
+.checkoutinfo div {
+  flex: 1;
+}
+
+
+    /*==============
 Media Queries
 ================*/
 
