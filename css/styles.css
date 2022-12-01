@@ -645,6 +645,17 @@ Register
   width: 300px;
 }
 
+
+
+    /*==============
+Tickets
+================*/
+
+.tickets{
+  max-width: 200px;
+}
+
+
     /*==============
 Media Queries
 ================*/
