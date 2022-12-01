@@ -633,6 +633,7 @@ Register
   margin: 0 auto;
   gap:20px;
   padding: 20px;
+  text-align: left;
 }
 
 .checkoutinfo div {
