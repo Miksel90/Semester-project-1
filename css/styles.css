@@ -664,6 +664,9 @@ Media Queries
     font-size: 15px;
     max-width: 300px;
   }
+  .contactbox{
+    max-width: 300px;
+  }
 
 }
 
