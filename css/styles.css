@@ -707,6 +707,7 @@ font-size: 25px;
   border: none;
   border-radius: 15px;
   box-shadow: 0 5px #999;
+  margin-top: 10px;
 }
 
 .select-date:hover{background-color: #3e8e41}
