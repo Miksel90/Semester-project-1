@@ -776,7 +776,6 @@ input[type=text], select, textarea, aria-label{
   border-radius: 4px;
   box-sizing: border-box;
   resize: vertical;
-  background-color: #B6A696;
 }
 
 label {
