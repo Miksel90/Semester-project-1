@@ -679,7 +679,7 @@ Media Queries
   .contactbox{
     max-width: 300px;
   }
-  .newsbox{
+  .adressbox{
     flex-direction: column;
     max-width: 300px;
   }
