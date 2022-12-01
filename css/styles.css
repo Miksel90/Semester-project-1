@@ -228,6 +228,7 @@ main{
     margin-top: 10px;
     list-style: none;
     text-align: left;
+    max-width: 400px;
   }
 
     /*==============
