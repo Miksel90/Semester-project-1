@@ -788,6 +788,10 @@ label {
   display: inline-block
 }
 
+.purchase{
+  background-color: #fff;
+}
+
     /*==============
 Media Queries
 ================*/
