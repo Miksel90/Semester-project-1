@@ -657,6 +657,7 @@ Tickets
 }
 
 .ticket-row{
+  display: flex;
   border-color: #0071bc;
   border-color: #0071bc;
   max-width: 1000px;
