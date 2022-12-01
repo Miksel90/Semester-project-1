@@ -658,6 +658,7 @@ Tickets
 
 .ticket-row{
   border: #000;
+  border-style: solid;
   display: flex;
   max-width: 850px;
   margin: 0 auto;
