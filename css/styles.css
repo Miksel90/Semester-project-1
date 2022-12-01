@@ -659,7 +659,7 @@ Tickets
 .ticket-row{
   display: flex;
   border-color: #0071bc;
-  border-color: #0071bc;
+  border-style: solid
   max-width: 1000px;
   margin: 0 auto;
 }
