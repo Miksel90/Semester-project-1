@@ -612,6 +612,17 @@ max-width: 400px;
 }
 
     /*==============
+Partner
+================*/
+
+.partner-img img{
+  width: 90%;
+  height: 90%;
+  border-color: #fff;
+  border-style: solid;
+}
+
+    /*==============
 Media Queries
 ================*/
 
