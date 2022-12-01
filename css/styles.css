@@ -795,6 +795,14 @@ label {
 }
 
     /*==============
+Teacher Form
+================*/
+
+.teacher-container{
+  max-width: 1000px;
+  text-align: start;
+}
+    /*==============
 Media Queries
 ================*/
 
