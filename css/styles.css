@@ -737,9 +737,15 @@ font-size: 25px;
   margin-top: 10px;
 }
 
+.container-payment{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-left: 30%;
+  margin-right: 30%;
+ }
 
-
-.checkoutinfo{
+.ticket-payment{
   display: flex;
   justify-content: center;
   max-width: 400px;
