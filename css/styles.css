@@ -663,7 +663,8 @@ Tickets
   max-width: 1000px;
   margin: 0 auto;
   justify-content: space-around;
-align-items: center;
+  align-items: center;
+  font-size: 20px;
 }
 
 
