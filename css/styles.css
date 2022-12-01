@@ -695,6 +695,10 @@ font-size: 30px;
 font-size: 25px;
 }
 
+.fa-plus:hover,
+.fa-minus:hover{
+  background-color: #0071bc;
+}
 
 .select-date {
   padding: 15px 25px;
