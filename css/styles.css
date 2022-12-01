@@ -680,6 +680,10 @@ align-items: center;
   border-radius: 50%;
 }
 
+.ticketnumber{
+color: #fff;
+font-size: 16px;
+}
     /*==============
 Media Queries
 ================*/
