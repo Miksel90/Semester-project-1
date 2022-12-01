@@ -668,6 +668,7 @@ Tickets
 .trbot{
   border-bottom: #000;
   border-style: solid;
+  max-width: 800px;
 }
 
 .color1{
