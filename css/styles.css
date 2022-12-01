@@ -50,7 +50,10 @@ main{
     display: none;
   }
 
-
+  .a:visited{
+    text-decoration: none;
+    color: #fff;
+  }
   .rounded{
     color: #0071bc;
   }
@@ -330,14 +333,7 @@ main{
   color: darkgoldenrod;
   }
   
-
- .a:visited{
-    text-decoration: none;
-    color: #fff;
-  }
-
-
-    /*==============
+   /*==============
 6. Vist us
 ================*/
 
