@@ -736,6 +736,20 @@ font-size: 25px;
   background-color:#0071bc;
   margin-top: 10px;
 }
+
+
+
+.checkoutinfo{
+  display: flex;
+  justify-content: center;
+  max-width: 400px;
+  margin: 0 auto;
+  gap:20px;
+}
+
+.checkoutinfo div {
+  flex: 1;
+}
     /*==============
 Media Queries
 ================*/
