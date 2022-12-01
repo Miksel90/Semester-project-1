@@ -763,9 +763,6 @@ margin: 0 auto;
   flex: 1;
 }
 
-.column3{
-  flex-direction: column;
-}
     /*==============
 Media Queries
 ================*/
