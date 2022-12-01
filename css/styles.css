@@ -660,10 +660,6 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
-  .newsletter{
-    flex-direction: column;
-    width: 200px;
-  }
 }
 
 @media(max-width: 700px){
@@ -679,6 +675,10 @@ Media Queries
   }
   .contactbox{
     max-width: 300px;
+  }
+  .newsletter{
+    flex-direction: column;
+    width: 200px;
   }
 
 }
