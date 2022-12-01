@@ -760,6 +760,7 @@ Payment
   font-size: 50px;
   padding: 10px;
   font-weight: 400;
+  background-color: #fff;
 }
 
 
@@ -788,9 +789,6 @@ label {
   display: inline-block
 }
 
-.purchase{
-  background-color: #fff;
-}
 
     /*==============
 Media Queries
