@@ -688,7 +688,8 @@ color: #fff;
 font-size: 30px;
 }
 
-.fa-plus{
+.fa-plus,
+.fa-minus{
 font-size: 25px;
 }
 
