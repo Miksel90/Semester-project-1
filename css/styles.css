@@ -656,6 +656,9 @@ Tickets
   margin: 0 auto;
 }
 
+.ticket-row{
+  max-width: 500px;
+}
 
     /*==============
 Media Queries
