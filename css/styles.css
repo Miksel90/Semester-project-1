@@ -725,6 +725,10 @@ font-size: 25px;
   transform: translateY(4px);
 }
 
+
+.nextweek{
+  font-size: 20px;
+}
     /*==============
 Media Queries
 ================*/
