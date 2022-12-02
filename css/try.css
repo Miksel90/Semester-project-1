@@ -70,4 +70,10 @@
     nav{
         padding: 0 2rem;
         background-color: #0071bc;
+        position: relative;
+    }
+
+    nav .nav-brand a{
+        display: block;
+        padding: 1rem 0;
     }
