@@ -22,6 +22,9 @@ body {
   background-color:#cf2e2e;
   color: #fff;
 }
+img{
+  max-width: 100%;
+}
 
 h1,h2{
   font-size: 40px;
