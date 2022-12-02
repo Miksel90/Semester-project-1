@@ -54,10 +54,13 @@
       }
       
       .logo img {
-          display: flex;
-          align-self: center;
           width: 100px;
           height: 100px;
+        }
+
+        nav .logo a{
+            display: block;
+            padding: 1rem 0;
         }
 
 .flex-row{
