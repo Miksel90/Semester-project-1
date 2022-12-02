@@ -21,7 +21,7 @@ body {
   text-align: center;
   background-color:#cf2e2e;
   color: #fff;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 h1,h2{
