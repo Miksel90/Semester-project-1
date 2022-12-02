@@ -856,9 +856,6 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
-  .line3{
-    display: none;
-  }
 }
 
 @media(max-width: 700px){
@@ -891,6 +888,9 @@ Media Queries
 }
 .ticket-payment {
   flex-direction: column;
+}
+.line3{
+  display: none;
 }
 
 }
