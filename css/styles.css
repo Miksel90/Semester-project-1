@@ -865,7 +865,7 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
-  .nav{
+  .nav ul li{
     flex-direction: column;
   }
 }
