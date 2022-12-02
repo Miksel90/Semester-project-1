@@ -102,4 +102,6 @@
         background-color:#cf2e2e;
     }
 
-
+    nav .nav-items .nav-link:hover a{
+        font-weight: bold;
+    }
