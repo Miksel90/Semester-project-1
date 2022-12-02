@@ -73,7 +73,6 @@
         padding: 0 2rem;
         background-color: #0071bc;
         position: relative;
-        color: #fff;
     }
 
     nav .logo a{
@@ -90,4 +89,5 @@
     nav .nav-items .nav-link{
         padding: 1.3rem 1rem;
         font-size: 1.1rem; 
+        color: #fff;
     }
