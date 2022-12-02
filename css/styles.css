@@ -21,7 +21,6 @@ body {
   text-align: center;
   background-color:#cf2e2e;
   color: #fff;
-  overflow-x: hidden;
 }
 
 h1,h2{
@@ -99,7 +98,7 @@ nav {
   position: sticky;
   top: 1;
   margin-bottom: 50px;
-  overflow: hidden;
+  overflow-x: hidden;
 }
   
 nav ul{ 
