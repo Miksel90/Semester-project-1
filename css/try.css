@@ -125,3 +125,10 @@ padding: 1.4rem 0 ;
             flex-direction: column !important;
         }
     }
+
+    
+  @media(min-width:1000px){
+    .search-input{
+      display: block;
+    }
+    }
