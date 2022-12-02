@@ -98,3 +98,6 @@
         background-color: blueviolet;
     }
 
+    nav .nav-items .nav-link:hover a{
+        background-color:chartreuse;
+    }
