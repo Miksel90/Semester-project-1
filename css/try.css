@@ -143,6 +143,9 @@ nav .toggle-collapse .toggle-icons i{
     nav{
         flex-direction: column !important;
     }
+    .search-input{
+        display: block;
+      }
 }
 
     
