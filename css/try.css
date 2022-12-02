@@ -84,10 +84,10 @@
     nav .nav-items{
         list-style-type: none;
         margin: 0;
+        color: #fff;
     }
 
     nav .nav-items .nav-link{
         padding: 1.3rem 1rem;
         font-size: 1.1rem; 
-        color: #fff;
     }
