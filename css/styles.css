@@ -89,12 +89,13 @@ main{
     width: 100px;
     height: 100px;
   }
+
   nav {
     background-color: #0071bc;
     width: 100%;
     justify-content: space-evenly;
     position: sticky;
-    z-index: 9999;
+    top: 0;
     margin-bottom: 50px;
     overflow: hidden;
   }
