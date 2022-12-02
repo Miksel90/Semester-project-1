@@ -124,6 +124,7 @@ a{
     text-decoration: none;
     font-size: 12px;
     align-self: center;
+    display: block ruby;
   }
   
   
