@@ -95,9 +95,9 @@
 
     
     nav .nav-items .nav-link:hover{
-        background-color: blueviolet;
+        background-color:black
     }
 
     nav .nav-items .nav-link:hover a{
-        background-color:chartreuse;
+        background-color:#fff
     }
