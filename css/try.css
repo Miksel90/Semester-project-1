@@ -51,6 +51,10 @@
       display: none;
     }
 
+
+    .black-text{
+        color: #fff;
+    }
       
       .logo img {
           width: 100px;
