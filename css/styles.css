@@ -168,7 +168,7 @@ header{
 }
 
 .welcome img {
-  max-width: 500px;
+  max-width: 100%;
   display: flex;
   border-color: #fff;
   border-style: solid;
