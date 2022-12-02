@@ -95,8 +95,6 @@ nav {
   background-color: #0071bc;
   width: 100%;
   justify-content: space-evenly;
-  position: sticky;
-  top: 1;
   margin-bottom: 50px;
 }
   
@@ -104,7 +102,6 @@ nav ul{
   display: flex;
   justify-content: space-evenly;
   list-style: none;
-  max-width:1000px;
   margin: 0 auto; 
 }
 
