@@ -78,7 +78,7 @@ nav{
     background-color: #0071bc;
     position: relative;
     justify-content: space-between;
-    min-height: 11vh;
+    min-height: 20vh;
     height: 0rem;
     overflow-y: hidden;
 }
