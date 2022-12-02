@@ -876,10 +876,10 @@ Media Queries
     display: none;
   }  
   .welcome img {
-    max-width: 400px;
+    max-width: 100%;
   }
   .explore-img{
-    width: 300px;
+    max-width: 100%;
   }
   .schooltext{
     font-size: 15px;
@@ -937,7 +937,7 @@ Media Queries
       display: none;
     }
     .explore-img{
-      max-width: 350px;
+      max-width: 100%
     }
  
   }
@@ -946,7 +946,7 @@ Media Queries
     .cafe1 img{
       display: none;
     }
-    logo img{
+    .logo img{
       margin-left: -300px;
     }
     .kidstext{
