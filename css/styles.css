@@ -933,6 +933,9 @@ Media Queries
     .seeanddo{
       display: none;
     }
+    .explore-img{
+      max-width: 350px;
+    }
  
   }
 
