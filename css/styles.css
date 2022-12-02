@@ -886,17 +886,17 @@ Media Queries
     max-width: 300px;
   }
   .contactbox{
-    max-width: 300px;
+    max-width: 100%;
   }
   .adressbox{
     flex-direction: column;
-    max-width: 300px;
+    max-width: 100%;
   }
   .newsletter{
     display: block;
   }
   .email{
-    width: 220px;
+    max-width: 220px;
   }
   .ticket-row{
     margin-left: 5px;
