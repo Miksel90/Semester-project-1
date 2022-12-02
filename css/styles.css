@@ -865,9 +865,6 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
-  .nav ul li{
-    flex-direction: column;
-  }
 }
 
 @media(max-width: 700px){
@@ -933,6 +930,9 @@ Media Queries
     }
     .kidstext{
       font-size: 25px;
+    }
+    .selltext{
+      top:5px;
     }
   }
 
