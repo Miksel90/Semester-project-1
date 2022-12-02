@@ -933,6 +933,7 @@ Media Queries
     }
     .kidstext{
       font-size: 25px;
+      align-self: center;
     }
   
   }
