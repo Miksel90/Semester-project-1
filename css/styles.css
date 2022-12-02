@@ -95,7 +95,7 @@ main{
     justify-content: space-evenly;
     position: fixed;
     z-index: 9999;
-    margin-bottom: 20px;
+    margin-bottom: 50px;
   }
   
     nav ul{ 
