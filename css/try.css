@@ -104,4 +104,5 @@
 
     nav .nav-items .nav-link:hover a{
         font-weight: bold;
+        font-size: 30px;
     }
