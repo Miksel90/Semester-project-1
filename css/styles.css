@@ -257,6 +257,10 @@ header{
     width: 500px;
   }
 
+  .adressbox ul li{
+    list-style-type: none;
+  }
+
     /*==============
 4. Footer
 ================*/
