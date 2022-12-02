@@ -93,6 +93,7 @@ main{
     background-color: #0071bc;
     width: 100%;
     justify-content: space-evenly;
+    position: fixed;
   }
   
     nav ul{ 
