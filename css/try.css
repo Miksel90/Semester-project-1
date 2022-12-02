@@ -48,3 +48,10 @@
     .hide-this-label {
       display: none;
     }
+
+
+
+    nav{
+        padding: 0 2rem;
+        background-color: #0071bc;
+    }
