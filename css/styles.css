@@ -896,7 +896,7 @@ Media Queries
     display: block;
   }
   .email{
-    max-width: 220px;
+    max-width: 100%;
   }
   .ticket-row{
     margin-left: 5px;
