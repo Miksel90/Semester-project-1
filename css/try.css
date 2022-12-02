@@ -112,3 +112,7 @@
     nav .social{
 padding: 1.4rem 0 ;
     }
+
+    nav .social i{
+        padding: 0 .2rem;
+    }
