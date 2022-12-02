@@ -123,6 +123,12 @@ nav .toggle-collapse{
     top: 0%;
     width: 100%;
     cursor: pointer;
+}
+
+nav .toggle-collapse .toggle-icons{
+    display: flex;
+    justify-content: flex-end;
+    padding: 1.4rem 4rem;
 
 }
 
