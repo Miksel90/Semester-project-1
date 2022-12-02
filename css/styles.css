@@ -94,6 +94,7 @@ main{
     width: 100%;
     justify-content: space-evenly;
     position: fixed;
+    z-index: 9999;
   }
   
     nav ul{ 
