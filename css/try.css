@@ -109,6 +109,7 @@
     }
 
 
+
 nav .social{
     padding: 1.4rem 0 ;
 }
@@ -117,14 +118,22 @@ nav .social i{
     padding: 0 .2rem;
 }
 
-    @media only screen and(max-width: 800px){
-        nav .nav-items{
-            flex-direction: column;
-        }
-        nav{
-            flex-direction: column !important;
-        }
+nav .toggle-collapse{
+    position: absolute;
+    top: 0%;
+    width: 100%;
+    cursor: pointer;
+
+}
+
+@media only screen and(max-width: 800px){
+    nav .nav-items{
+        flex-direction: column;
     }
+    nav{
+        flex-direction: column !important;
+    }
+}
 
     
   @media(min-width:1000px){
