@@ -91,3 +91,10 @@
         padding: 1.3rem 1rem;
         font-size: 1.1rem; 
     }
+
+
+    
+    nav .nav-items .nav-link:hover{
+        background-color: blueviolet;
+    }
+
