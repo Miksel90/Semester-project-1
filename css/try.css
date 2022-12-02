@@ -49,9 +49,6 @@
       display: none;
     }
 
-    .logo{
-        z-index:1;
-      }
       
       .logo img {
           width: 100px;
