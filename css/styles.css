@@ -919,6 +919,9 @@ Media Queries
      flex-wrap: nowrap;
      flex-direction: column;
     }
+    .selltext{
+      top:5px;
+    }
   }
 
   @media(min-width:1200px){
@@ -931,9 +934,7 @@ Media Queries
     .kidstext{
       font-size: 25px;
     }
-    .selltext{
-      top:5px;
-    }
+  
   }
 
   
