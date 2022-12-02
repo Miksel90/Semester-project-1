@@ -919,8 +919,9 @@ Media Queries
      flex-wrap: nowrap;
      flex-direction: column;
     }
-    .selltext{
+     .selltext{
       top:5px;
+      align-self: center;
     }
   }
 
@@ -933,7 +934,6 @@ Media Queries
     }
     .kidstext{
       font-size: 25px;
-      align-self: center;
     }
   
   }
