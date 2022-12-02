@@ -923,9 +923,6 @@ Media Queries
       top:5px;
       left:10px
     }
-    .nav ul li{
-      flex-wrap: nowrap;
-    }
  
   }
 
