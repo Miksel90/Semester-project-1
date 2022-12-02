@@ -930,7 +930,7 @@ Media Queries
     .nav ul li{
       justify-content: space-evenly;
     }
-    .seeanddo{
+    seeanddo{
       display: none;
     }
     .explore-img{
