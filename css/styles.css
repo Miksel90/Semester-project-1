@@ -140,8 +140,10 @@ a{
 
   
   
-  header{display: flex;
+  header{
+    display: flex;
    justify-content: space-around;
+   flex-wrap: wrap;
   }
   
   
