@@ -924,6 +924,9 @@ Media Queries
       top:5px;
       left:10px
     }
+    .seeanddo{
+      display: none;
+    }
  
   }
 
