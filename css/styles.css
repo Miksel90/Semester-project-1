@@ -263,6 +263,20 @@ header{
     list-style-type: none;
   }
 
+
+      /*==============
+Explore row HP
+================*/
+
+.explore {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.explore img {
+ width: 340px;
+}
+
     /*==============
 4. Footer
 ================*/
@@ -587,20 +601,6 @@ Exhibtions specific
 
 .cosmology{
   background-image: url(../images/cosmos.webp)
-}
-
-
-    /*==============
-Explore row HP
-================*/
-
-.explore {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.explore img {
- width: 340px;
 }
 
 
