@@ -85,66 +85,65 @@ a{
 ================*/
 
 .logo{
-flex: 1 0 100%;
 }
 
 .logo img {
-    display: flex;
-    align-self: center;
-    width: 100px;
-    height: 100px;
-  }
+  display: flex;
+  align-self: center;
+  width: 100px;
+  height: 100px;
+}
 
-  nav {
-    background-color: #0071bc;
-    width: 100%;
-    justify-content: space-evenly;
-    position: sticky;
-    top: 1;
-    margin-bottom: 50px;
-    overflow: hidden;
-  }
+nav {
+  background-color: #0071bc;
+  width: 100%;
+  justify-content: space-evenly;
+  position: sticky;
+  top: 1;
+  margin-bottom: 50px;
+  overflow: hidden;
+}
   
-    nav ul{ 
-      display: flex;
-      justify-content: space-evenly;
-      list-style: none;
-      max-width:1000px;
-      margin: 0 auto; 
-    }
-  
-    nav ul li{
-      padding:10px 10px;
-      display: flex;
-      align-self: center;
-    }
-  
-  nav ul li a{
-    color: #fff;
-    text-decoration: none;
-    font-size: 12px;
-    align-self: center;
-  }
-  
-  
-  nav [type=text]{
-    font-size: 12px;
-    color: white;
-    max-height: 30px;
-    align-self: center;
-  }
+nav ul{ 
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  max-width:1000px;
+  margin: 0 auto; 
+}
 
-  .search-input{
-    display: none;
-  }
+nav ul li{
+  padding:10px 10px;
+  display: flex;
+  align-self: center;
+}
+
+nav ul li a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  align-self: center;
+}
+  
+
+nav [type=text]{
+  font-size: 12px;
+  color: white;
+  max-height: 30px;
+  align-self: center;
+}
+
+.search-input{
+  display: none;
+}
+
 
   
-  
-  header{
-    display: flex;
-   justify-content: space-around;
-   flex-wrap: wrap;
-  }
+header{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
   
   
   nav a:hover,.bottom-nav a:hover {
