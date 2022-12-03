@@ -939,7 +939,6 @@ Media Queries
     .explore-img{
       max-width: 100%
     }
- 
   }
 
   @media(min-width:1200px){
@@ -954,8 +953,7 @@ Media Queries
     }
   
   }
-
-  
+    
   @media(max-width:1200px){
     .program{
       gap:5px;
