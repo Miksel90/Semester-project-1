@@ -273,10 +273,6 @@ Explore row HP
   margin-bottom: 10px;
 }
 
-.explore img {
- width: 400px;
-}
-
     /*==============
 4. Footer
 ================*/
@@ -908,7 +904,6 @@ Media Queries
 .line3{
   display: none;
 }
-
 }
 
   @media(min-width:1000px){
@@ -919,7 +914,6 @@ Media Queries
       flex-wrap: nowrap;
     }
     }
-
 
     @media(max-width: 428px){
     .flex-container{
@@ -953,7 +947,7 @@ Media Queries
     }
   
   }
-    
+
   @media(max-width:1200px){
     .program{
       gap:5px;
