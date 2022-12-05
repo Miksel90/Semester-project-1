@@ -738,14 +738,14 @@ font-size: 25px;
   background-color: #0071bc;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 5px #;
+  box-shadow: 0 5px ;
   margin-top: 10px;
   margin-bottom: 10px;
 }
 
 
 .select-date:active{
-  background-color:#0071bc;
+  background-color:#04AA6D;
   box-shadow: 0 5px #fff;
   transform: translateY(4px);
 }
