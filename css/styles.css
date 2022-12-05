@@ -939,13 +939,9 @@ Media Queries
     .cafe1 img{
       display: none;
     }
-    logo img{
-      margin-left: -300px;
-    }
     .kidstext{
       font-size: 25px;
     }
-  
   }
 
   @media(max-width:1200px){
