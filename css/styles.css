@@ -21,6 +21,7 @@ body {
   text-align: center;
   background-color:#cf2e2e;
   color: #fff;
+  overflow-x: hidden;
 }
 img{
   max-width: 100%;
