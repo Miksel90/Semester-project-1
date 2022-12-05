@@ -100,10 +100,6 @@ nav {
   margin-bottom: 50px;
 }
 
-.main-nav{
-  position: sticky;
-  top:0;
-}
   
 nav ul{ 
   display: flex;
