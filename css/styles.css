@@ -98,8 +98,6 @@ nav {
   background-color: #0071bc;
   width: 100%;
   margin-bottom: 20px;
-  position: sticky; 
-  z-index: 99;
 }
 
   
@@ -141,6 +139,9 @@ header{
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
+  position: sticky; 
+  z-index: 99;
+  top: 0;
 }
   
   
