@@ -102,10 +102,6 @@ nav {
   z-index: 99;
 }
 
-.main-nav{
-  position: fixed; 
-  top: 0;
-}
   
 nav ul{ 
   display: flex;
