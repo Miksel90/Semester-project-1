@@ -218,6 +218,7 @@ header{
 }
 
 .selltext{
+  background: rgb(0,0,0,0.5);
   font-size: 50px;
   font-style: italic;
   position:absolute;
