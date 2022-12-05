@@ -132,8 +132,6 @@ nav [type=text]{
 .search-input{
   display: none;
 }
-
-
   
 header{
   display: flex;
@@ -179,6 +177,7 @@ header{
   border-color: #fff;
   border-style: solid;
   flex-wrap: wrap;
+  object-fit: cover;
 }
 
 
