@@ -698,7 +698,7 @@ Tickets
 }
 
 .color1{
-  background-color:#0071bc;
+  background-color:#04AA6D;
   border: none;
   color: white;
   padding: 20px;
@@ -735,10 +735,10 @@ font-size: 25px;
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #04AA6D;
+  background-color: #0071bc;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 5px #fff;
+  box-shadow: 0 5px #;
   margin-top: 10px;
   margin-bottom: 10px;
 }
