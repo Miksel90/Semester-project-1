@@ -251,18 +251,6 @@ header{
   }
   
 
-  .adressbox{
-    border-color: black;
-    border-style: solid;
-    padding: 5px 25px;
-    font-size: 22px;
-    background-color:#0071bc;
-    margin-top: 10px;
-    list-style: none;
-    text-align: left;
-    max-width: 100%;
-  }
-
   .cb2 ul li{
     list-style-type: none;
   }
