@@ -879,7 +879,7 @@ Media Queries
    flex-direction: column;
   }
    .selltext{
-    left:10%;
+    right:10%;
     font-size: 30px;
   }
   .nav ul li{
