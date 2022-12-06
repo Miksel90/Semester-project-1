@@ -860,6 +860,9 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
+  .contactbox{
+    font-size: 16px;
+  }
 }
 
 @media(min-width:1000px){
