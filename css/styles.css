@@ -850,9 +850,6 @@ Media Queries
   nav ul li a{
     font-size: 30px;
   }
-  .logo img{
-    width: 50px;
-  }
   .container2{
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -896,6 +893,9 @@ Media Queries
   }
   .footer{
     font-size: 16px;
+  }
+  .logo img{
+    width: 50px;
   }
 }
 
