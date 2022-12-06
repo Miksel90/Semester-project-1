@@ -851,8 +851,7 @@ Media Queries
     font-size: 30px;
   }
   .logo img{
-    height:125px;
-    width: 125px;
+    width: 50px;
   }
   .container2{
     display: grid;
@@ -872,9 +871,6 @@ Media Queries
   }
 
 @media(min-width:1200px){
-  .cafe1 img{
-    display: none;
-  }
   .kidstext{
     font-size: 25px;
   }
