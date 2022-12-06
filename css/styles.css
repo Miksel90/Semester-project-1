@@ -199,7 +199,6 @@ header{
 }
 
 
-
 .welexhib{
   background-image: url(../images/hpmoon.webp);
   background-repeat: no-repeat;
@@ -264,7 +263,7 @@ header{
     max-width: 100%;
   }
 
-  .adressbox ul li{
+  .cb2 ul li{
     list-style-type: none;
   }
 
