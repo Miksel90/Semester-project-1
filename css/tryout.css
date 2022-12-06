@@ -39,7 +39,7 @@
 
 
   .logo img {
-    display: inline-block;
+    display: flex;
     align-self: center;
     width: 100px;
     height: 100px;
@@ -89,9 +89,6 @@
   -webkit-touch-callout: none;
 }
 
-/*
- * Just a quick hamburger
- */
 #menuToggle span
 {
   display: block;
