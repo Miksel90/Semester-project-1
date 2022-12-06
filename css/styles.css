@@ -860,9 +860,6 @@ Media Queries
     padding: 20px;
     gap: 10px;
   }
-  .contactbox{
-    font-size: 16px;
-  }
 }
 
 @media(min-width:1000px){
@@ -900,6 +897,9 @@ Media Queries
   }
   .explore-img{
     max-width: 100%
+  }
+  .contactbox{
+    font-size: 16px;
   }
 }
 
