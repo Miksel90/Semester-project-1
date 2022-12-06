@@ -910,10 +910,6 @@ Media Queries
   .contactbox{
     max-width: 100%;
   }
-  .adressbox{
-    flex-direction: column;
-    max-width: 100%;
-  }
   .newsletter{
     display: block;
   }
