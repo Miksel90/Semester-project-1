@@ -42,6 +42,9 @@ main{
   box-sizing: border-box;
 }
 
+
+p { margin-bottom: 1em;}
+
 input{
   font-weight: 700;
   padding-block: 5px;
