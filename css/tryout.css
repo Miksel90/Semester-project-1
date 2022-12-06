@@ -36,3 +36,11 @@
   .hide-this-label {
     display: none;
   }
+
+
+  .logo img {
+    display: flex;
+    align-self: center;
+    width: 100px;
+    height: 100px;
+  }
