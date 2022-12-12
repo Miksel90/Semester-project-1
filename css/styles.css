@@ -413,8 +413,8 @@ Explore row HP
 }
 
 .mapframe{
-  width:600px;
-  height:450px; 
+ border-color: #000;
+ border-style: solid;
 }
 
     /*==============
