@@ -417,6 +417,10 @@ Explore row HP
  border-style: solid;
 }
 
+.frame{
+  height: 300px;
+}
+
     /*==============
 Opening Hours
 ================*/
