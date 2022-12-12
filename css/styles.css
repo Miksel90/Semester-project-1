@@ -424,6 +424,9 @@ iframe{
   border-style: solid;
 }
 
+.gmap{
+  margin: 0;
+}
     /*==============
 Opening Hours
 ================*/
