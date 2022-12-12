@@ -412,6 +412,12 @@ Explore row HP
   width: fit-content;
 }
 
+.mapframe{
+  width:600;
+  height:450; 
+  border-style: 0;
+}
+
     /*==============
 Opening Hours
 ================*/
@@ -559,6 +565,7 @@ Exhibtions specific
   background: rgb(0,0,0,0.5);
   margin-top: 5px;
   text-align: left;
+  
 }
 
 .Exhib-background{
