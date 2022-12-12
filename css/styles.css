@@ -850,7 +850,7 @@ Media Queries
 }
 
 
-@media(max-width:300px){
+@media(max-width: 350px){
   .logo img{
     width:40px;
   }
