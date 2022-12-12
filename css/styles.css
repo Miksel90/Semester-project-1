@@ -420,6 +420,8 @@ iframe{
   width: 650px;
   height: 450px;
   margin-top: 10px;
+  border-color: #fff;
+  border-style: solid;
 }
 
     /*==============
