@@ -767,6 +767,7 @@ Payment
 
 .ticket-payment ul li{
   list-style: none;
+  text-align: left;
 }
 
 input[type=text], select, textarea, aria-label{
