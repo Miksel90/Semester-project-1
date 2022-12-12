@@ -415,11 +415,10 @@ Explore row HP
 .mapframe{
  border-color: #000;
  border-style: solid;
+ height: 500px;
 }
 
-.frame{
-  height: 3000px;
-}
+
 
     /*==============
 Opening Hours
