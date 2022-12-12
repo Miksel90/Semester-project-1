@@ -849,6 +849,13 @@ Media Queries
   }
 }
 
+
+@media(max-width: 350px){
+  .nav{
+    margin-left: 50px;
+  }
+}
+
 @media(max-width: 428px){
   .flex-container{
    flex-wrap: nowrap;
