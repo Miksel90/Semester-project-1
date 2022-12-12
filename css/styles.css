@@ -759,6 +759,7 @@ Payment
   max-width: 400px;
   margin: 0 auto;
   gap:20px;
+  list-style: none;
 }
 
 .ticket-payment div{
