@@ -849,14 +849,7 @@ Media Queries
   }
 }
 
-
-@media(max-width: 350px){
-  .logo img{
-    width:40px;
-  }
-}
-
-  @media(max-width: 428px){
+@media(max-width: 428px){
   .flex-container{
    flex-wrap: nowrap;
    flex-direction: column;
