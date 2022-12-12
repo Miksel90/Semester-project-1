@@ -856,6 +856,7 @@ Media Queries
   }
    .selltext{
     right:10%;
+    top:10px;
     font-size: 30px;
   }
   .nav ul li{
