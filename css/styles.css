@@ -782,6 +782,10 @@ label {
   margin-top: 20px;
 }
 
+.purchase{
+  max-width: 55px;
+}
+
     /*==============
 Teacher Form
 ================*/
