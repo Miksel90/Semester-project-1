@@ -413,8 +413,8 @@ Explore row HP
 }
 
 .mapframe{
-  width:600;
-  height:450; 
+  width:600PX;
+  height:450PX; 
   border-style: 0;
 }
 
