@@ -852,7 +852,7 @@ Media Queries
 
 @media(max-width:300px){
   .logo img{
-    width:40px
+    width:40px;
   }
 }
 
