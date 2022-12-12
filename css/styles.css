@@ -416,6 +416,7 @@ Explore row HP
   width:600px;
   height:450px; 
   border-style: 0;
+  display: flex;
 }
 
     /*==============
