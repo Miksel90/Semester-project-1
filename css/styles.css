@@ -413,8 +413,7 @@ Explore row HP
 }
 
 .mapframe{
- border-color: #000;
- border-style: solid;
+  border-style: 0;
 }
 
 iframe{
