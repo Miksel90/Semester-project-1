@@ -849,13 +849,6 @@ Media Queries
   }
 }
 
-
-@media(max-width: 350px){
-  .nav ul li{
-    margin-left: 50px;
-  }
-}
-
 @media(max-width: 428px){
   .flex-container{
    flex-wrap: nowrap;
@@ -867,9 +860,6 @@ Media Queries
   }
   .nav ul li{
     justify-content: space-evenly;
-  }
-  .seeanddo{
-    display: none;
   }
   .explore-img{
     max-width: 100%
