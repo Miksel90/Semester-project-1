@@ -933,4 +933,7 @@ Media Queries
     .program{
       gap:5px;
     }
+    iframe{
+      max-width:100%;
+    }
   }
