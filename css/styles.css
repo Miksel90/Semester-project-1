@@ -29,6 +29,10 @@ h1,h2{
   color: #fff;
 }
 
+img{
+  max-width: 100%;
+}
+
 main{
   flex:1;
 }
