@@ -944,3 +944,9 @@ Media Queries
       margin-right: 0px;
     }
   }
+
+  @media(max-width:1500px){
+    iframe{
+      margin-right: 0px;
+    }
+  }
