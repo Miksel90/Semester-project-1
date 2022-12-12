@@ -851,7 +851,7 @@ Media Queries
 
 
 @media(max-width: 350px){
-  .nav{
+  .nav ul li{
     margin-left: 50px;
   }
 }
