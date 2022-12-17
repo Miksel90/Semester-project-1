@@ -301,9 +301,6 @@ Explore row HP
   justify-content: space-evenly;
   border-color: #000;
   border-style: solid;
-  border-top: none;
-  border-left: none;
-  border-bottom: none;
 }
 
 .btn3 a{
