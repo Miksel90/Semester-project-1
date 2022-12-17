@@ -299,8 +299,7 @@ Explore row HP
   background-color:#fff;
   display: flex;
   justify-content: space-evenly;
-  border-color: #000;
-  border-style: solid;
+  border-radius: 5px;
 }
 
 .btn3 a{
