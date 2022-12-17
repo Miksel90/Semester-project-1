@@ -293,14 +293,6 @@ Explore row HP
 }
 
 
-.bottom{
-  height: 50px;
-  background-color:#0071bc;
-  border-style: solid;
-  border-color: black;
-  border-top: none; 
-}
-
 .some-container{
   max-width: 180px;
   height: 47px;
